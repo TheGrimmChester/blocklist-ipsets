@@ -3,12 +3,18 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32352,
-		"common": 99
+		"common": 100
 	},
 	{
 		"name": "atlas_scans_30d",
 		"category": "attacks",
 		"ips": 99,
+		"common": 1
+	},
+	{
+		"name": "bbcan177_ms3",
+		"category": "malware",
+		"ips": 30151694,
 		"common": 1
 	},
 	{
@@ -110,7 +116,7 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15070,
+		"ips": 15075,
 		"common": 1
 	},
 	{
@@ -171,12 +177,12 @@
 		"name": "cruzit_web_attacks",
 		"category": "attacks",
 		"ips": 7277,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 381,
+		"ips": 377,
 		"common": 80
 	},
 	{
@@ -194,7 +200,7 @@
 	{
 		"name": "dataplane_sipregistration",
 		"category": "attacks",
-		"ips": 71,
+		"ips": 70,
 		"common": 4
 	},
 	{
@@ -206,7 +212,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 443,
+		"ips": 444,
 		"common": 59
 	},
 	{
@@ -290,7 +296,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38829,
+		"ips": 38822,
 		"common": 1
 	},
 	{
@@ -302,7 +308,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37679,
+		"ips": 37671,
 		"common": 110
 	},
 	{
@@ -314,13 +320,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9372277,
-		"common": 7
+		"ips": 9372283,
+		"common": 8
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25790,
+		"ips": 25783,
 		"common": 1
 	},
 	{
@@ -344,7 +350,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1513,
+		"ips": 1505,
 		"common": 38
 	},
 	{
@@ -375,7 +381,7 @@
 		"name": "iblocklist_cruzit_web_attacks",
 		"category": "attacks",
 		"ips": 7247,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "iblocklist_edu",
@@ -405,13 +411,13 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762674273,
-		"common": 61
+		"common": 64
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346611467,
-		"common": 34
+		"common": 35
 	},
 	{
 		"name": "iblocklist_level3",
@@ -675,6 +681,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30332,
-		"common": 264
+		"common": 266
 	}
 ]
