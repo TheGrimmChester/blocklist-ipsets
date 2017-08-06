@@ -24,6 +24,12 @@
 		"common": 70
 	},
 	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 1128,
+		"common": 1
+	},
+	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 2898,
@@ -44,8 +50,8 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 1603,
-		"common": 1590
+		"ips": 1601,
+		"common": 1588
 	},
 	{
 		"name": "bitcoin_blockchain_info_1d",
@@ -68,25 +74,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7583,
-		"common": 7583
+		"ips": 7579,
+		"common": 7579
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9173,
-		"common": 9173
+		"ips": 9183,
+		"common": 9183
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 27868,
-		"common": 15113
+		"ips": 27874,
+		"common": 15123
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29115,
+		"ips": 29109,
 		"common": 5
 	},
 	{
@@ -278,13 +284,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 12529,
+		"ips": 12582,
 		"common": 2
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 10970,
+		"ips": 11016,
 		"common": 2
 	},
 	{
@@ -428,20 +434,20 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652605634,
+		"ips": 652605635,
 		"common": 8
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37650,
+		"ips": 37644,
 		"common": 8
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132547,
-		"common": 31
+		"ips": 132291,
+		"common": 30
 	},
 	{
 		"name": "firehol_level4",
@@ -555,7 +561,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227895944,
-		"common": 425
+		"common": 426
 	},
 	{
 		"name": "iblocklist_fornonlancomputers",
@@ -603,7 +609,7 @@
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 549
+		"common": 550
 	},
 	{
 		"name": "iblocklist_isp_embarq",
@@ -645,7 +651,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762674273,
-		"common": 618
+		"common": 619
 	},
 	{
 		"name": "iblocklist_level2",
@@ -657,13 +663,13 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 138997022,
-		"common": 685
+		"common": 686
 	},
 	{
 		"name": "iblocklist_onion_router",
 		"category": "anonymizers",
-		"ips": 6666,
-		"common": 128
+		"ips": 6660,
+		"common": 131
 	},
 	{
 		"name": "iblocklist_org_blizzard",
@@ -807,7 +813,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 3238
+		"common": 3240
 	},
 	{
 		"name": "sorbs_new_spam",
