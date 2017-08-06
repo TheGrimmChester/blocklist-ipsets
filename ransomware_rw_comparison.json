@@ -44,25 +44,25 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 123213,
+		"ips": 123236,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 64761,
+		"ips": 64798,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 162689,
+		"ips": 162699,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 82124,
+		"ips": 82150,
 		"common": 1
 	},
 	{
@@ -104,19 +104,19 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 272148,
+		"ips": 272169,
 		"common": 3
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652605632,
-		"common": 324
+		"ips": 652605634,
+		"common": 326
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132544,
+		"ips": 132547,
 		"common": 5
 	},
 	{
@@ -135,7 +135,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739813,
-		"common": 59
+		"common": 61
 	},
 	{
 		"name": "gofferje_sip",
@@ -153,7 +153,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26665,
-		"common": 12
+		"common": 14
 	},
 	{
 		"name": "hphosts_exp",
@@ -213,7 +213,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 639371171,
-		"common": 53
+		"common": 54
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -225,13 +225,13 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227895944,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762674273,
-		"common": 18
+		"common": 19
 	},
 	{
 		"name": "iblocklist_level2",
@@ -279,19 +279,25 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 45
+		"common": 46
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 5007,
-		"common": 259
+		"common": 261
 	},
 	{
 		"name": "ransomware_locky_c2",
 		"category": "malware",
 		"ips": 259,
 		"common": 251
+	},
+	{
+		"name": "ransomware_locky_ps",
+		"category": "malware",
+		"ips": 3,
+		"common": 2
 	},
 	{
 		"name": "ransomware_online",
