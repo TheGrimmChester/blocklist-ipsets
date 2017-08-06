@@ -48,7 +48,7 @@
 [ -f 'bbcan177_ms1.netset' ] && /usr/bin/touch --date=@1499312414 'bbcan177_ms1.netset'
 [ -f 'bbcan177_ms3.netset' ] && /usr/bin/touch --date=@1463104351 'bbcan177_ms3.netset'
 [ -f 'bds_atif.ipset' ] && /usr/bin/touch --date=@1502006406 'bds_atif.ipset'
-[ -f 'bi_any_2_1d.ipset' ] && /usr/bin/touch --date=@1502024920 'bi_any_2_1d.ipset'
+[ -f 'bi_any_2_1d.ipset' ] && /usr/bin/touch --date=@1502026826 'bi_any_2_1d.ipset'
 [ -f 'bi_any_2_30d.ipset' ] && /usr/bin/touch --date=@1501944662 'bi_any_2_30d.ipset'
 [ -f 'bi_any_2_7d.ipset' ] && /usr/bin/touch --date=@1502023219 'bi_any_2_7d.ipset'
 [ -f 'bi_bruteforce_2_30d.ipset' ] && /usr/bin/touch --date=@1493754049 'bi_bruteforce_2_30d.ipset'
