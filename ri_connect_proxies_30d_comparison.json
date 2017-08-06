@@ -32,7 +32,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19740,
+		"ips": 19761,
 		"common": 26
 	},
 	{
@@ -164,7 +164,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 12030,
+		"ips": 12071,
 		"common": 1
 	},
 	{
@@ -182,7 +182,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 518704,
+		"ips": 518801,
 		"common": 2348
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9376268,
+		"ips": 9376288,
 		"common": 267
 	},
 	{
@@ -464,8 +464,8 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 130,
-		"common": 1
+		"ips": 119,
+		"common": 2
 	},
 	{
 		"name": "php_commenters",
@@ -714,9 +714,15 @@
 		"common": 222
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2877,
+		"ips": 2880,
 		"common": 19
 	},
 	{
