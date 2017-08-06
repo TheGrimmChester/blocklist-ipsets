@@ -30,6 +30,12 @@
 		"common": 2
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 29471,
+		"common": 168
+	},
+	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 14826,
@@ -50,13 +56,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 123243,
+		"ips": 123252,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 162795,
+		"ips": 162802,
 		"common": 1
 	},
 	{
@@ -129,7 +135,7 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 28672,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "et_botcc",
@@ -146,14 +152,14 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 273063,
+		"ips": 273084,
 		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132063,
-		"common": 19
+		"common": 18
 	},
 	{
 		"name": "firehol_level4",
@@ -177,7 +183,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095973,
-		"common": 37
+		"common": 38
 	},
 	{
 		"name": "haley_ssh",
@@ -231,7 +237,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 138997022,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -324,16 +330,10 @@
 		"common": 3
 	},
 	{
-		"name": "trustedsec_atif",
-		"category": "reputation",
-		"ips": 1681,
-		"common": 1
-	},
-	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27252,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "urandomusto_unspecified",
