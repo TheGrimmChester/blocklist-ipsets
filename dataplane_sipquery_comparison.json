@@ -26,32 +26,32 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1170,
+		"ips": 1162,
 		"common": 25
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 2898,
-		"common": 32
+		"common": 33
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 1705,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "bi_ftp_2_30d",
 		"category": "attacks",
 		"ips": 31,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "bi_http_2_30d",
 		"category": "attacks",
 		"ips": 115,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "bi_mail_2_30d",
@@ -63,7 +63,7 @@
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
 		"ips": 1590,
-		"common": 29
+		"common": 30
 	},
 	{
 		"name": "bi_voip_2_30d",
@@ -110,7 +110,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15227,
+		"ips": 15223,
 		"common": 1
 	},
 	{
@@ -183,13 +183,13 @@
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
 		"ips": 366,
-		"common": 80
+		"common": 81
 	},
 	{
 		"name": "dataplane_dnsversion",
 		"category": "attacks",
 		"ips": 178,
-		"common": 80
+		"common": 81
 	},
 	{
 		"name": "dataplane_sipinvitation",
@@ -200,14 +200,14 @@
 	{
 		"name": "dataplane_sipregistration",
 		"category": "attacks",
-		"ips": 71,
-		"common": 4
+		"ips": 69,
+		"common": 3
 	},
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 12709,
-		"common": 86
+		"common": 87
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -219,7 +219,7 @@
 		"name": "dragon_http",
 		"category": "attacks",
 		"ips": 59136,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "dronebl_anonymizers",
@@ -296,7 +296,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38863,
+		"ips": 38861,
 		"common": 1
 	},
 	{
@@ -309,18 +309,18 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 37360,
-		"common": 117
+		"common": 118
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132239,
-		"common": 228
+		"common": 229
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9559494,
+		"ips": 9559490,
 		"common": 8
 	},
 	{
@@ -344,14 +344,14 @@
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
-		"ips": 1095974,
+		"ips": 1095976,
 		"common": 54
 	},
 	{
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1907,
-		"common": 49
+		"common": 50
 	},
 	{
 		"name": "haley_ssh",
@@ -447,13 +447,13 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 28
+		"common": 29
 	},
 	{
 		"name": "lashback_ubl",
@@ -471,7 +471,7 @@
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "packetmail",
@@ -495,7 +495,7 @@
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2060,
-		"common": 19
+		"common": 20
 	},
 	{
 		"name": "php_commenters_30d",
@@ -519,7 +519,7 @@
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 5061,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "sorbs_dul",
@@ -597,7 +597,7 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 5056,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "threatcrowd",
@@ -608,20 +608,20 @@
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 1947,
+		"ips": 1946,
 		"common": 1
 	},
 	{
 		"name": "trustedsec_atif",
 		"category": "reputation",
 		"ips": 1681,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27252,
-		"common": 211
+		"common": 212
 	},
 	{
 		"name": "urandomusto_dns",
@@ -681,6 +681,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30332,
-		"common": 263
+		"common": 264
 	}
 ]
