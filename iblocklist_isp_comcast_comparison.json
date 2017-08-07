@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14944,
+		"ips": 15070,
 		"common": 122
 	},
 	{
@@ -176,8 +176,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6723,
-		"common": 83
+		"ips": 6694,
+		"common": 84
 	},
 	{
 		"name": "botscout_1d",
@@ -332,13 +332,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 12622,
+		"ips": 12659,
 		"common": 93
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 11059,
+		"ips": 11095,
 		"common": 86
 	},
 	{
@@ -350,8 +350,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6721,
-		"common": 83
+		"ips": 6691,
+		"common": 84
 	},
 	{
 		"name": "dragon_http",
@@ -374,13 +374,13 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 518823,
+		"ips": 518822,
 		"common": 1197
 	},
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 312372,
+		"ips": 312371,
 		"common": 1793
 	},
 	{
@@ -418,6 +418,12 @@
 		"category": "malware",
 		"ips": 131392,
 		"common": 356
+	},
+	{
+		"name": "dshield_top_1000",
+		"category": "attacks",
+		"ips": 875,
+		"common": 2
 	},
 	{
 		"name": "esentire_14072015_com",
@@ -596,20 +602,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38242,
-		"common": 68
+		"ips": 38194,
+		"common": 67
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 272302,
+		"ips": 272271,
 		"common": 776
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38814,
-		"common": 272
+		"ips": 38785,
+		"common": 273
 	},
 	{
 		"name": "firehol_level1",
@@ -626,13 +632,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132288,
-		"common": 810
+		"ips": 132287,
+		"common": 812
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9559174,
+		"ips": 9559299,
 		"common": 678
 	},
 	{
@@ -866,8 +872,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 17613,
-		"common": 25
+		"ips": 17500,
+		"common": 24
 	},
 	{
 		"name": "nullsecure",
@@ -890,31 +896,19 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2102,
-		"common": 10
-	},
-	{
-		"name": "php_dictionary",
-		"category": "spam",
-		"ips": 50,
-		"common": 1
-	},
-	{
-		"name": "php_dictionary_1d",
-		"category": "spam",
-		"ips": 96,
-		"common": 1
+		"ips": 2060,
+		"common": 9
 	},
 	{
 		"name": "php_dictionary_30d",
 		"category": "spam",
-		"ips": 1075,
+		"ips": 1039,
 		"common": 2
 	},
 	{
 		"name": "php_dictionary_7d",
 		"category": "spam",
-		"ips": 360,
+		"ips": 318,
 		"common": 1
 	},
 	{
@@ -926,7 +920,7 @@
 	{
 		"name": "php_spammers_30d",
 		"category": "spam",
-		"ips": 1093,
+		"ips": 1054,
 		"common": 1
 	},
 	{
