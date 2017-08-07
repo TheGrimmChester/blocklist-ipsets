@@ -74,62 +74,62 @@
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9126,
+		"ips": 9116,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28030,
+		"ips": 28024,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 15087,
+		"ips": 15076,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30310,
+		"ips": 30294,
 		"common": 272
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8867,
-		"common": 81
+		"ips": 8866,
+		"common": 80
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 722,
+		"ips": 720,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2635,
+		"ips": 2647,
 		"common": 29
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16094,
+		"ips": 16085,
 		"common": 44
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 922,
+		"ips": 923,
 		"common": 19
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 11598,
-		"common": 119
+		"ips": 11589,
+		"common": 120
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20622,
+		"ips": 20547,
 		"common": 14
 	},
 	{
@@ -332,7 +332,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 518830,
+		"ips": 518946,
 		"common": 40
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "dronebl_ddos_drones",
 		"category": "attacks",
-		"ips": 315332,
+		"ips": 315699,
 		"common": 75
 	},
 	{
@@ -470,8 +470,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 39076,
-		"common": 2
+		"ips": 39113,
+		"common": 3
 	},
 	{
 		"name": "firehol_level1",
@@ -482,8 +482,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38182,
-		"common": 644
+		"ips": 38164,
+		"common": 643
 	},
 	{
 		"name": "firehol_level3",
@@ -494,14 +494,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9511279,
+		"ips": 9511209,
 		"common": 131
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26051,
-		"common": 2
+		"ips": 26088,
+		"common": 3
 	},
 	{
 		"name": "firehol_webclient",
@@ -740,7 +740,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 10094,
+		"ips": 9772,
 		"common": 6
 	},
 	{
@@ -792,16 +792,28 @@
 		"common": 638
 	},
 	{
+		"name": "ri_web_proxies",
+		"category": "anonymizers",
+		"ips": 145,
+		"common": 1
+	},
+	{
+		"name": "ri_web_proxies_1d",
+		"category": "anonymizers",
+		"ips": 426,
+		"common": 1
+	},
+	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 5084,
-		"common": 1
+		"ips": 5148,
+		"common": 2
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1645,
-		"common": 1
+		"ips": 1701,
+		"common": 2
 	},
 	{
 		"name": "satellite",

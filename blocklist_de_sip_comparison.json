@@ -62,8 +62,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30310,
-		"common": 882
+		"ips": 30294,
+		"common": 883
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20622,
+		"ips": 20547,
 		"common": 12
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 518830,
+		"ips": 518946,
 		"common": 8
 	},
 	{
@@ -302,8 +302,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 39076,
-		"common": 1
+		"ips": 39113,
+		"common": 2
 	},
 	{
 		"name": "firehol_level1",
@@ -314,8 +314,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38182,
-		"common": 882
+		"ips": 38164,
+		"common": 883
 	},
 	{
 		"name": "firehol_level3",
@@ -326,8 +326,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9511279,
+		"ips": 9511209,
 		"common": 94
+	},
+	{
+		"name": "firehol_proxies",
+		"category": "anonymizers",
+		"ips": 26088,
+		"common": 1
 	},
 	{
 		"name": "firehol_webclient",
@@ -500,7 +506,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 10094,
+		"ips": 9772,
 		"common": 1
 	},
 	{
@@ -526,6 +532,30 @@
 		"category": "reputation",
 		"ips": 34512264,
 		"common": 43
+	},
+	{
+		"name": "ri_web_proxies",
+		"category": "anonymizers",
+		"ips": 145,
+		"common": 1
+	},
+	{
+		"name": "ri_web_proxies_1d",
+		"category": "anonymizers",
+		"ips": 426,
+		"common": 1
+	},
+	{
+		"name": "ri_web_proxies_30d",
+		"category": "anonymizers",
+		"ips": 5148,
+		"common": 1
+	},
+	{
+		"name": "ri_web_proxies_7d",
+		"category": "anonymizers",
+		"ips": 1701,
+		"common": 1
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -651,6 +681,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30388,
-		"common": 59
+		"common": 60
 	}
 ]
