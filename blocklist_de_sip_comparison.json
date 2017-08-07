@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32352,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "atlas_scans_30d",
@@ -32,14 +32,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29141,
+		"ips": 29107,
 		"common": 115
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15292,
-		"common": 1
+		"ips": 15287,
+		"common": 2
 	},
 	{
 		"name": "bruteforceblocker",
@@ -63,13 +63,19 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 162849,
+		"common": 2
+	},
+	{
+		"name": "cleantalk_updated_7d",
+		"category": "abuse",
+		"ips": 82536,
 		"common": 1
 	},
 	{
 		"name": "cruzit_web_attacks",
 		"category": "attacks",
 		"ips": 7277,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "cybercrime",
@@ -153,12 +159,12 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 272443,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37514,
+		"ips": 37479,
 		"common": 115
 	},
 	{
@@ -170,8 +176,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9559577,
-		"common": 12
+		"ips": 9559565,
+		"common": 13
 	},
 	{
 		"name": "firehol_webclient",
@@ -183,13 +189,13 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739813,
-		"common": 34
+		"common": 33
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095976,
-		"common": 33
+		"common": 32
 	},
 	{
 		"name": "greensnow",
@@ -219,7 +225,7 @@
 		"name": "iblocklist_cruzit_web_attacks",
 		"category": "attacks",
 		"ips": 7247,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_edu",
@@ -237,7 +243,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762674273,
-		"common": 14
+		"common": 13
 	},
 	{
 		"name": "iblocklist_level2",
@@ -249,7 +255,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 138997022,
-		"common": 14
+		"common": 13
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -297,7 +303,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 34
+		"common": 33
 	},
 	{
 		"name": "sorbs_dul",
