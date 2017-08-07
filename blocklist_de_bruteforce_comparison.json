@@ -38,19 +38,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29460,
-		"common": 372
+		"ips": 29539,
+		"common": 376
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8862,
-		"common": 372
+		"ips": 8867,
+		"common": 376
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 166,
+		"ips": 167,
 		"common": 7
 	},
 	{
@@ -87,19 +87,19 @@
 		"name": "cleantalk_1d",
 		"category": "abuse",
 		"ips": 30332,
-		"common": 53
+		"common": 55
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 123617,
-		"common": 73
+		"common": 75
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 65484,
-		"common": 75
+		"common": 77
 	},
 	{
 		"name": "cleantalk_new_30d",
@@ -123,19 +123,19 @@
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
 		"ips": 35248,
-		"common": 53
+		"common": 55
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 163130,
-		"common": 81
+		"common": 83
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 82921,
-		"common": 79
+		"common": 81
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -148,6 +148,12 @@
 		"category": "malware",
 		"ips": 30403,
 		"common": 58
+	},
+	{
+		"name": "dronebl_anonymizers",
+		"category": "anonymizers",
+		"ips": 518822,
+		"common": 1
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -177,13 +183,13 @@
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 37020,
-		"common": 54
+		"common": 56
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 272726,
-		"common": 83
+		"common": 85
 	},
 	{
 		"name": "firehol_level1",
@@ -261,7 +267,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 655867299,
-		"common": 23
+		"common": 24
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -291,7 +297,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762674273,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "iblocklist_level2",
@@ -408,6 +414,12 @@
 		"common": 2
 	},
 	{
+		"name": "sorbs_anonymizers",
+		"category": "spam",
+		"ips": 609175,
+		"common": 1
+	},
+	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
@@ -429,7 +441,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "spamhaus_drop",
@@ -452,7 +464,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4370,
+		"ips": 4503,
 		"common": 1
 	},
 	{
