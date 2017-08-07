@@ -220,7 +220,7 @@ This script will update each ipset and call firehol to update the ipset while th
 
 # List of ipsets included
 
-The following list was automatically generated on Mon Aug  7 00:55:13 UTC 2017.
+The following list was automatically generated on Mon Aug  7 00:57:06 UTC 2017.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -276,7 +276,7 @@ name|info|type|entries|update|
 [bds_atif](http://iplists.firehol.org/?ipset=bds_atif)|Artillery Threat Intelligence Feed and Banlist Feed|ipv4 hash:ip|1746 unique IPs|updated every 1 day  from [this link](https://www.binarydefense.com/banlist.txt)
 [bi_any_2_1d](http://iplists.firehol.org/?ipset=bi_any_2_1d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category any with score above 2 and age less than 1d|ipv4 hash:ip|1170 unique IPs|updated every 30 mins  from [this link](https://www.badips.com/get/list/any/2?age=1d)
 [bi_any_2_30d](http://iplists.firehol.org/?ipset=bi_any_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category any with score above 2 and age less than 30d|ipv4 hash:ip|2898 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/any/2?age=30d)
-[bi_any_2_7d](http://iplists.firehol.org/?ipset=bi_any_2_7d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category any with score above 2 and age less than 7d|ipv4 hash:ip|1699 unique IPs|updated every 6 hours  from [this link](https://www.badips.com/get/list/any/2?age=7d)
+[bi_any_2_7d](http://iplists.firehol.org/?ipset=bi_any_2_7d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category any with score above 2 and age less than 7d|ipv4 hash:ip|1705 unique IPs|updated every 6 hours  from [this link](https://www.badips.com/get/list/any/2?age=7d)
 [bi_bruteforce_2_30d](http://iplists.firehol.org/?ipset=bi_bruteforce_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category bruteforce with score above 2 and age less than 30d|ipv4 hash:ip|0 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/bruteforce/2?age=30d)
 [bi_ftp_2_30d](http://iplists.firehol.org/?ipset=bi_ftp_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category ftp with score above 2 and age less than 30d|ipv4 hash:ip|32 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/ftp/2?age=30d)
 [bi_http_2_30d](http://iplists.firehol.org/?ipset=bi_http_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category http with score above 2 and age less than 30d|ipv4 hash:ip|115 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/http/2?age=30d)
@@ -286,7 +286,7 @@ name|info|type|entries|update|
 [bi_ssh_2_30d](http://iplists.firehol.org/?ipset=bi_ssh_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category ssh with score above 2 and age less than 30d|ipv4 hash:ip|1590 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/ssh/2?age=30d)
 [bi_voip_2_30d](http://iplists.firehol.org/?ipset=bi_voip_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category voip with score above 2 and age less than 30d|ipv4 hash:ip|9 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/voip/2?age=30d)
 [bitcoin_blockchain_info](http://iplists.firehol.org/?ipset=bitcoin_blockchain_info)|[Blockchain.info](https://blockchain.info/en/connected-nodes) Bitcoin nodes connected to Blockchain.info.|ipv4 hash:ip|1566 unique IPs|updated every 10 mins  from [this link](https://blockchain.info/en/connected-nodes)
-[bitcoin_blockchain_info_1d](http://iplists.firehol.org/?ipset=bitcoin_blockchain_info_1d)|[Blockchain.info](https://blockchain.info/en/connected-nodes) Bitcoin nodes connected to Blockchain.info.|ipv4 hash:ip|1781 unique IPs|updated every 10 mins  from [this link](https://blockchain.info/en/connected-nodes)
+[bitcoin_blockchain_info_1d](http://iplists.firehol.org/?ipset=bitcoin_blockchain_info_1d)|[Blockchain.info](https://blockchain.info/en/connected-nodes) Bitcoin nodes connected to Blockchain.info.|ipv4 hash:ip|1780 unique IPs|updated every 10 mins  from [this link](https://blockchain.info/en/connected-nodes)
 [bitcoin_blockchain_info_30d](http://iplists.firehol.org/?ipset=bitcoin_blockchain_info_30d)|[Blockchain.info](https://blockchain.info/en/connected-nodes) Bitcoin nodes connected to Blockchain.info.|ipv4 hash:ip|8189 unique IPs|updated every 10 mins  from [this link](https://blockchain.info/en/connected-nodes)
 [bitcoin_blockchain_info_7d](http://iplists.firehol.org/?ipset=bitcoin_blockchain_info_7d)|[Blockchain.info](https://blockchain.info/en/connected-nodes) Bitcoin nodes connected to Blockchain.info.|ipv4 hash:ip|5967 unique IPs|updated every 10 mins  from [this link](https://blockchain.info/en/connected-nodes)
 [bitcoin_nodes](http://iplists.firehol.org/?ipset=bitcoin_nodes)|[BitNodes](https://getaddr.bitnodes.io/) Bitcoin connected nodes, globally.|ipv4 hash:ip|7185 unique IPs|updated every 10 mins  from [this link](https://getaddr.bitnodes.io/api/v1/snapshots/latest/)
