@@ -60,6 +60,12 @@
 		"common": 9
 	},
 	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 20781,
+		"common": 1
+	},
+	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 30254,
@@ -128,7 +134,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 13480,
+		"ips": 13570,
 		"common": 5
 	},
 	{
@@ -178,6 +184,12 @@
 		"category": "attacks",
 		"ips": 132401,
 		"common": 9
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9564960,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
