@@ -8,13 +8,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29702,
+		"ips": 29460,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 1031,
+		"ips": 1028,
 		"common": 1
 	},
 	{
@@ -22,6 +22,12 @@
 		"category": "reputation",
 		"ips": 30506,
 		"common": 31
+	},
+	{
+		"name": "cruzit_web_attacks",
+		"category": "attacks",
+		"ips": 7278,
+		"common": 1
 	},
 	{
 		"name": "dataplane_sipinvitation",
@@ -32,8 +38,8 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 388,
-		"common": 3
+		"ips": 389,
+		"common": 4
 	},
 	{
 		"name": "dshield_30d",
@@ -74,7 +80,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37460,
+		"ips": 37219,
 		"common": 2
 	},
 	{
@@ -84,10 +90,16 @@
 		"common": 33
 	},
 	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9559907,
+		"common": 1
+	},
+	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739813,
-		"common": 22
+		"common": 23
 	},
 	{
 		"name": "gofferje_sip",
@@ -114,6 +126,12 @@
 		"common": 31
 	},
 	{
+		"name": "iblocklist_cruzit_web_attacks",
+		"category": "attacks",
+		"ips": 7247,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227981568,
@@ -135,7 +153,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346611467,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "iblocklist_level3",
@@ -159,7 +177,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 20
+		"common": 21
 	},
 	{
 		"name": "sorbs_web",
@@ -189,7 +207,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27252,
-		"common": 25
+		"common": 26
 	},
 	{
 		"name": "urandomusto_unspecified",
