@@ -20,7 +20,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1140,
+		"ips": 1136,
 		"common": 7
 	},
 	{
@@ -98,20 +98,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29040,
-		"common": 28
+		"ips": 29141,
+		"common": 29
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 16148,
+		"common": 20
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 11112,
+		"ips": 11160,
 		"common": 9
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15275,
-		"common": 17
+		"ips": 15304,
+		"common": 18
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -278,13 +284,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 12770,
+		"ips": 12798,
 		"common": 19
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 11230,
+		"ips": 11262,
 		"common": 17
 	},
 	{
@@ -488,8 +494,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37413,
-		"common": 28
+		"ips": 37514,
+		"common": 29
 	},
 	{
 		"name": "firehol_level3",
@@ -500,8 +506,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9559559,
-		"common": 141
+		"ips": 9559587,
+		"common": 142
 	},
 	{
 		"name": "firehol_proxies",
@@ -674,8 +680,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 13032,
-		"common": 10
+		"ips": 12903,
+		"common": 7
 	},
 	{
 		"name": "nullsecure",
@@ -816,22 +822,28 @@
 		"common": 2
 	},
 	{
+		"name": "ri_web_proxies",
+		"category": "anonymizers",
+		"ips": 139,
+		"common": 1
+	},
+	{
 		"name": "ri_web_proxies_1d",
 		"category": "anonymizers",
-		"ips": 513,
-		"common": 1
+		"ips": 451,
+		"common": 2
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 5123,
+		"ips": 5095,
 		"common": 9
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1655,
-		"common": 1
+		"ips": 1616,
+		"common": 2
 	},
 	{
 		"name": "sblam",

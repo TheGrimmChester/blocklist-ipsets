@@ -44,7 +44,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1140,
+		"ips": 1136,
 		"common": 7
 	},
 	{
@@ -80,13 +80,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29040,
+		"ips": 29141,
+		"common": 6
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 8882,
 		"common": 6
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15275,
+		"ips": 15304,
 		"common": 2
 	},
 	{
@@ -182,13 +188,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 12770,
+		"ips": 12798,
 		"common": 60
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 11230,
+		"ips": 11262,
 		"common": 2
 	},
 	{
@@ -296,7 +302,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37413,
+		"ips": 37514,
 		"common": 48
 	},
 	{
@@ -308,7 +314,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9559559,
+		"ips": 9559587,
 		"common": 4
 	},
 	{
@@ -440,8 +446,8 @@
 	{
 		"name": "iblocklist_spamhaus_drop",
 		"category": "attacks",
-		"ips": 24521984,
-		"common": 1
+		"ips": 24578304,
+		"common": 2
 	},
 	{
 		"name": "ipblacklistcloud_top",
@@ -471,12 +477,6 @@
 		"name": "maxmind_proxy_fraud",
 		"category": "anonymizers",
 		"ips": 455,
-		"common": 1
-	},
-	{
-		"name": "nixspam",
-		"category": "spam",
-		"ips": 13032,
 		"common": 1
 	},
 	{

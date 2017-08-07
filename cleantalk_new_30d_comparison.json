@@ -26,7 +26,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1140,
+		"ips": 1136,
 		"common": 1
 	},
 	{
@@ -74,8 +74,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29040,
-		"common": 279
+		"ips": 29141,
+		"common": 280
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 8882,
+		"common": 11
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -86,7 +92,7 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 396,
+		"ips": 398,
 		"common": 9
 	},
 	{
@@ -102,15 +108,21 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 16148,
+		"common": 73
+	},
+	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 11112,
+		"ips": 11160,
 		"common": 4
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15275,
+		"ips": 15304,
 		"common": 92
 	},
 	{
@@ -260,13 +272,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 12770,
+		"ips": 12798,
 		"common": 22
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 11230,
+		"ips": 11262,
 		"common": 21
 	},
 	{
@@ -452,8 +464,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37413,
-		"common": 291
+		"ips": 37514,
+		"common": 292
 	},
 	{
 		"name": "firehol_level3",
@@ -464,7 +476,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9559559,
+		"ips": 9559587,
 		"common": 2332
 	},
 	{
@@ -656,7 +668,7 @@
 	{
 		"name": "iblocklist_spamhaus_drop",
 		"category": "attacks",
-		"ips": 24521984,
+		"ips": 24578304,
 		"common": 84
 	},
 	{
@@ -692,7 +704,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 13032,
+		"ips": 12903,
 		"common": 21
 	},
 	{
@@ -878,26 +890,26 @@
 	{
 		"name": "ri_web_proxies",
 		"category": "anonymizers",
-		"ips": 142,
-		"common": 20
+		"ips": 139,
+		"common": 13
 	},
 	{
 		"name": "ri_web_proxies_1d",
 		"category": "anonymizers",
-		"ips": 513,
-		"common": 59
+		"ips": 451,
+		"common": 53
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 5123,
-		"common": 445
+		"ips": 5095,
+		"common": 448
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1655,
-		"common": 165
+		"ips": 1616,
+		"common": 162
 	},
 	{
 		"name": "sblam",
