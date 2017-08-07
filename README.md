@@ -220,7 +220,7 @@ This script will update each ipset and call firehol to update the ipset while th
 
 # List of ipsets included
 
-The following list was automatically generated on Mon Aug  7 17:50:09 UTC 2017.
+The following list was automatically generated on Mon Aug  7 17:52:44 UTC 2017.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -611,7 +611,7 @@ name|info|type|entries|update|
 [dronebl_auto_botnets](http://iplists.firehol.org/?ipset=dronebl_auto_botnets)|[DroneBL.org](https://dronebl.org) IPs of automatically detected botnets. It includes IPs for which DroneBL responds with 17.|ipv4 hash:net|302771 subnets, 312362 unique IPs|
 [dronebl_autorooting_worms](http://iplists.firehol.org/?ipset=dronebl_autorooting_worms)|[DroneBL.org](https://dronebl.org) IPs of autorooting worms. It includes IPs for which DroneBL responds with 16. These are usually SSH bruteforce attacks.|ipv4 hash:net|971 subnets, 1046 unique IPs|
 [dronebl_compromised](http://iplists.firehol.org/?ipset=dronebl_compromised)|[DroneBL.org](https://dronebl.org) IPs of compromised routers / gateways. It includes IPs for which DroneBL responds with 15 (BOPM detected).|ipv4 hash:net|1514 subnets, 1522 unique IPs|
-[dronebl_ddos_drones](http://iplists.firehol.org/?ipset=dronebl_ddos_drones)|[DroneBL.org](https://dronebl.org) IPs of DDoS drones. It includes IPs for which DroneBL responds with 7.|ipv4 hash:net|289167 subnets, 299811 unique IPs|
+[dronebl_ddos_drones](http://iplists.firehol.org/?ipset=dronebl_ddos_drones)|[DroneBL.org](https://dronebl.org) IPs of DDoS drones. It includes IPs for which DroneBL responds with 7.|ipv4 hash:net|289426 subnets, 300070 unique IPs|
 [dronebl_dns_mx_on_irc](http://iplists.firehol.org/?ipset=dronebl_dns_mx_on_irc)|[DroneBL.org](https://dronebl.org) List of IPs of DNS / MX hostname detected on IRC. It includes IPs for which DroneBL responds with 18.|ipv4 hash:net|2841 subnets, 2897 unique IPs|
 [dronebl_irc_drones](http://iplists.firehol.org/?ipset=dronebl_irc_drones)|[DroneBL.org](https://dronebl.org) List of IRC spam drones (litmus/sdbot/fyle). It includes IPs for which DroneBL responds with 3.|ipv4 hash:net|51184 subnets, 51721 unique IPs|
 [dronebl_unknown](http://iplists.firehol.org/?ipset=dronebl_unknown)|[DroneBL.org](https://dronebl.org) List of IPs of uncategorized threats. It includes IPs for which DroneBL responds with 255.|ipv4 hash:net|33 subnets, 34 unique IPs|
