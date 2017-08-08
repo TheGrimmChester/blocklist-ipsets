@@ -44,19 +44,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30868,
+		"ips": 30852,
 		"common": 49
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8862,
+		"ips": 8858,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16236,
+		"ips": 16208,
 		"common": 48
 	},
 	{
@@ -512,7 +512,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3033,
+		"ips": 3021,
 		"common": 20
 	},
 	{
@@ -566,7 +566,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1365,
+		"ips": 1360,
 		"common": 1
 	},
 	{
@@ -640,5 +640,17 @@
 		"category": "anonymizers",
 		"ips": 1166,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 331,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 333,
+		"common": 2
 	}
 ]

@@ -98,26 +98,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30868,
-		"common": 26
+		"ips": 30852,
+		"common": 27
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16236,
+		"ips": 16208,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 902,
+		"ips": 901,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 11928,
-		"common": 19
+		"ips": 11941,
+		"common": 20
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -536,7 +536,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34094,
+		"ips": 34095,
 		"common": 64
 	},
 	{
@@ -806,7 +806,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5005,
+		"ips": 5006,
 		"common": 1
 	},
 	{
@@ -848,7 +848,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3033,
+		"ips": 3021,
 		"common": 3
 	},
 	{
@@ -920,7 +920,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1365,
+		"ips": 1360,
 		"common": 3
 	},
 	{
@@ -1020,16 +1020,16 @@
 		"common": 70
 	},
 	{
-		"name": "urandomusto_dns",
-		"category": "attacks",
-		"ips": 179,
-		"common": 1
-	},
-	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 412,
+		"ips": 394,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_vnc",
+		"category": "attacks",
+		"ips": 16,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

@@ -74,13 +74,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30868,
+		"ips": 30852,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 11928,
+		"ips": 11941,
 		"common": 2
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652604866,
+		"ips": 652604886,
 		"common": 5
 	},
 	{
@@ -564,9 +564,15 @@
 		"common": 28
 	},
 	{
-		"name": "urandomusto_dns",
+		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 179,
+		"ips": 331,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_unspecified",
+		"category": "attacks",
+		"ips": 79,
 		"common": 1
 	},
 	{
