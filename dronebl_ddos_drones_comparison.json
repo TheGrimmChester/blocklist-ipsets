@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20026,
+		"ips": 20023,
 		"common": 26
 	},
 	{
@@ -266,7 +266,7 @@
 	{
 		"name": "cybercrime",
 		"category": "malware",
-		"ips": 30406,
+		"ips": 30409,
 		"common": 12
 	},
 	{
@@ -303,7 +303,7 @@
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 312361,
-		"common": 109
+		"common": 110
 	},
 	{
 		"name": "dronebl_dns_mx_on_irc",
@@ -536,7 +536,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9510754,
+		"ips": 9510751,
 		"common": 117
 	},
 	{
@@ -548,7 +548,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34090,
+		"ips": 34091,
 		"common": 14
 	},
 	{
@@ -753,7 +753,7 @@
 		"name": "iblocklist_pedophiles",
 		"category": "reputation",
 		"ips": 845657,
-		"common": 276
+		"common": 280
 	},
 	{
 		"name": "iblocklist_proxies",
@@ -807,7 +807,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1237797,
-		"common": 3440
+		"common": 3441
 	},
 	{
 		"name": "myip",
@@ -882,22 +882,28 @@
 		"common": 3
 	},
 	{
+		"name": "proxyrss",
+		"category": "anonymizers",
+		"ips": 673,
+		"common": 1
+	},
+	{
 		"name": "proxyrss_1d",
 		"category": "anonymizers",
-		"ips": 1483,
-		"common": 2
+		"ips": 1532,
+		"common": 3
 	},
 	{
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
-		"ips": 4364,
+		"ips": 4372,
 		"common": 5
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
-		"ips": 2895,
-		"common": 2
+		"ips": 2866,
+		"common": 3
 	},
 	{
 		"name": "proxyspy_30d",
@@ -999,7 +1005,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 60189
+		"common": 60206
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -1023,7 +1029,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 7641
+		"common": 7643
 	},
 	{
 		"name": "sorbs_zombie",
