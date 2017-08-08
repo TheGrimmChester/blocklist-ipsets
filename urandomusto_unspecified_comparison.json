@@ -38,7 +38,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 226,
+		"ips": 227,
 		"common": 2
 	},
 	{
@@ -84,6 +84,18 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 31017,
+		"common": 19
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 8858,
+		"common": 6
+	},
+	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
 		"ips": 918,
@@ -104,37 +116,37 @@
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 31771,
+		"ips": 31739,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 123644,
+		"ips": 123636,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 64762,
+		"ips": 64734,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 37105,
+		"ips": 37064,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 163262,
+		"ips": 163254,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 82448,
+		"ips": 82410,
 		"common": 1
 	},
 	{
@@ -200,7 +212,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 524658,
+		"ips": 524657,
 		"common": 2
 	},
 	{
@@ -260,13 +272,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40087,
+		"ips": 40069,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 272518,
+		"ips": 272519,
 		"common": 2
 	},
 	{
@@ -278,8 +290,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 17797,
-		"common": 31
+		"ips": 40159,
+		"common": 46
 	},
 	{
 		"name": "firehol_level3",
@@ -290,7 +302,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9505483,
+		"ips": 9505582,
 		"common": 18
 	},
 	{
@@ -452,8 +464,8 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2185,
-		"common": 10
+		"ips": 2222,
+		"common": 11
 	},
 	{
 		"name": "pushing_inertia_blocklist",
