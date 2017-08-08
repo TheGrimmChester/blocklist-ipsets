@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32352,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "atlas_attacks",
@@ -30,6 +30,18 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 30868,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 8862,
+		"common": 1
+	},
+	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 30254,
@@ -39,7 +51,7 @@
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
 		"ips": 393,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "dshield",
@@ -75,7 +87,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 38721,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "firehol_level3",
@@ -93,7 +105,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1605,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "iblocklist_bogons",
