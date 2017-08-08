@@ -20,7 +20,7 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 114,
+		"ips": 116,
 		"common": 1
 	},
 	{
@@ -32,7 +32,13 @@
 	{
 		"name": "bambenek_necurs",
 		"category": "malware",
-		"ips": 13,
+		"ips": 15,
+		"common": 1
+	},
+	{
+		"name": "bambenek_simda",
+		"category": "malware",
+		"ips": 119,
 		"common": 1
 	},
 	{
@@ -188,7 +194,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20083,
+		"ips": 20070,
 		"common": 70
 	},
 	{
@@ -440,7 +446,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 524665,
+		"ips": 524664,
 		"common": 436
 	},
 	{
@@ -632,13 +638,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132666,
-		"common": 6325
+		"ips": 132423,
+		"common": 6324
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9510772,
+		"ips": 9510761,
 		"common": 5240560
 	},
 	{
@@ -656,8 +662,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34740213,
-		"common": 11241
+		"ips": 34739996,
+		"common": 11240
 	},
 	{
 		"name": "gofferje_sip",
@@ -956,8 +962,8 @@
 	{
 		"name": "myip",
 		"category": "abuse",
-		"ips": 3848,
-		"common": 40
+		"ips": 3602,
+		"common": 39
 	},
 	{
 		"name": "nixspam",
@@ -1010,8 +1016,8 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2108,
-		"common": 60
+		"ips": 2150,
+		"common": 58
 	},
 	{
 		"name": "php_commenters",
@@ -1188,9 +1194,15 @@
 		"common": 60
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3023,
+		"ips": 3033,
 		"common": 3
 	},
 	{

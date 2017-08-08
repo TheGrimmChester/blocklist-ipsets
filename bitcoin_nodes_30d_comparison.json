@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20083,
+		"ips": 20070,
 		"common": 2
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 524665,
+		"ips": 524664,
 		"common": 26
 	},
 	{
@@ -464,13 +464,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132666,
-		"common": 35
+		"ips": 132423,
+		"common": 33
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9510772,
+		"ips": 9510761,
 		"common": 63
 	},
 	{
@@ -488,8 +488,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34740213,
-		"common": 2721
+		"ips": 34739996,
+		"common": 2719
 	},
 	{
 		"name": "fullbogons",
@@ -776,8 +776,8 @@
 	{
 		"name": "myip",
 		"category": "abuse",
-		"ips": 3848,
-		"common": 3
+		"ips": 3602,
+		"common": 1
 	},
 	{
 		"name": "nullsecure",
@@ -789,6 +789,12 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 2943,
+		"common": 1
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2150,
 		"common": 1
 	},
 	{
