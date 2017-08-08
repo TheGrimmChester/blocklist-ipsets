@@ -38,43 +38,49 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30647,
+		"ips": 30677,
 		"common": 28
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 8850,
+		"common": 14
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 399,
+		"ips": 401,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 359,
+		"ips": 360,
 		"common": 10
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 804,
+		"ips": 810,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2506,
+		"ips": 2498,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16105,
+		"ips": 16131,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 11869,
+		"ips": 11863,
 		"common": 2
 	},
 	{
@@ -122,13 +128,13 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 59,
-		"common": 1
+		"ips": 41,
+		"common": 2
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1228,
+		"ips": 1223,
 		"common": 6
 	},
 	{
@@ -140,7 +146,7 @@
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4738,
+		"ips": 4739,
 		"common": 11
 	},
 	{
@@ -236,7 +242,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 404,
+		"ips": 406,
 		"common": 1
 	},
 	{
@@ -320,7 +326,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37948,
+		"ips": 37949,
 		"common": 34
 	},
 	{
@@ -332,7 +338,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 39178,
+		"ips": 39101,
 		"common": 6
 	},
 	{
@@ -344,7 +350,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38040,
+		"ips": 38070,
 		"common": 35
 	},
 	{
@@ -362,7 +368,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26140,
+		"ips": 26135,
 		"common": 6
 	},
 	{
@@ -422,7 +428,7 @@
 	{
 		"name": "iblocklist_edu",
 		"category": "organizations",
-		"ips": 227981568,
+		"ips": 227898648,
 		"common": 2
 	},
 	{
@@ -500,7 +506,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 5952,
+		"ips": 7022,
 		"common": 2
 	},
 	{
@@ -747,7 +753,7 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "sslproxies_1d",
@@ -758,13 +764,13 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 4172,
+		"ips": 4170,
 		"common": 4
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1372,
+		"ips": 1369,
 		"common": 4
 	},
 	{
