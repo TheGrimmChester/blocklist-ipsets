@@ -128,13 +128,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30286,
+		"ips": 30384,
 		"common": 637
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8864,
+		"ips": 8868,
 		"common": 534
 	},
 	{
@@ -152,19 +152,19 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 730,
+		"ips": 733,
 		"common": 19
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2649,
+		"ips": 2657,
 		"common": 35
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16021,
+		"ips": 16045,
 		"common": 565
 	},
 	{
@@ -176,7 +176,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 11656,
+		"ips": 11720,
 		"common": 5
 	},
 	{
@@ -188,7 +188,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20396,
+		"ips": 20393,
 		"common": 68
 	},
 	{
@@ -416,7 +416,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6664,
+		"ips": 6673,
 		"common": 10
 	},
 	{
@@ -440,7 +440,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 520130,
+		"ips": 520228,
 		"common": 430
 	},
 	{
@@ -464,7 +464,7 @@
 	{
 		"name": "dronebl_ddos_drones",
 		"category": "attacks",
-		"ips": 319439,
+		"ips": 319560,
 		"common": 7
 	},
 	{
@@ -602,19 +602,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37936,
+		"ips": 37943,
 		"common": 1361
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 272327,
+		"ips": 272331,
 		"common": 7351
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 39103,
+		"ips": 39149,
 		"common": 31
 	},
 	{
@@ -626,7 +626,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38173,
+		"ips": 38271,
 		"common": 3965
 	},
 	{
@@ -638,7 +638,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9511092,
+		"ips": 9511088,
 		"common": 5248747
 	},
 	{
@@ -650,7 +650,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34088,
+		"ips": 34090,
 		"common": 544
 	},
 	{
@@ -1014,16 +1014,28 @@
 		"common": 37
 	},
 	{
+		"name": "php_commenters",
+		"category": "spam",
+		"ips": 50,
+		"common": 2
+	},
+	{
+		"name": "php_commenters_1d",
+		"category": "spam",
+		"ips": 91,
+		"common": 2
+	},
+	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 858,
+		"ips": 856,
 		"common": 17
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
-		"ips": 287,
-		"common": 7
+		"ips": 282,
+		"common": 8
 	},
 	{
 		"name": "php_dictionary_30d",
@@ -1100,7 +1112,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5002,
+		"ips": 5005,
 		"common": 15
 	},
 	{
@@ -1112,7 +1124,7 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 141,
+		"ips": 143,
 		"common": 1
 	},
 	{
