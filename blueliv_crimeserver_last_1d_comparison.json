@@ -80,13 +80,13 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 1287,
+		"ips": 1285,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 1564,
+		"ips": 1563,
 		"common": 1
 	},
 	{
@@ -104,19 +104,19 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7315,
+		"ips": 7123,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9001,
+		"ips": 9000,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28026,
+		"ips": 28027,
 		"common": 2
 	},
 	{
@@ -128,19 +128,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30315,
+		"ips": 30411,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16033,
+		"ips": 16063,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 11672,
+		"ips": 11727,
 		"common": 1
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 519654,
+		"ips": 519727,
 		"common": 2
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 39093,
+		"ips": 39095,
 		"common": 2
 	},
 	{
@@ -302,7 +302,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38197,
+		"ips": 38291,
 		"common": 3
 	},
 	{
@@ -320,14 +320,14 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26086,
+		"ips": 26088,
 		"common": 1
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34088,
-		"common": 6
+		"ips": 34089,
+		"common": 7
 	},
 	{
 		"name": "firehol_webserver",
@@ -614,8 +614,14 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5008,
-		"common": 46
+		"ips": 5004,
+		"common": 47
+	},
+	{
+		"name": "ransomware_online",
+		"category": "malware",
+		"ips": 142,
+		"common": 1
 	},
 	{
 		"name": "snort_ipfilter",
