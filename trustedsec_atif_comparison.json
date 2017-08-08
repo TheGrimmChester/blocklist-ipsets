@@ -158,7 +158,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15300,
+		"ips": 15299,
 		"common": 18
 	},
 	{
@@ -296,13 +296,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 14962,
+		"ips": 14973,
 		"common": 43
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 13418,
+		"ips": 13430,
 		"common": 11
 	},
 	{
@@ -470,7 +470,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9506152,
+		"ips": 9358448,
 		"common": 155
 	},
 	{
@@ -566,7 +566,7 @@
 	{
 		"name": "iblocklist_hijacked",
 		"category": "attacks",
-		"ips": 9051648,
+		"ips": 8903936,
 		"common": 4
 	},
 	{
@@ -722,8 +722,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3030,
-		"common": 47
+		"ips": 3064,
+		"common": 50
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -944,13 +944,13 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 418,
+		"ips": 402,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 109,
+		"ips": 112,
 		"common": 3
 	},
 	{
@@ -962,13 +962,19 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 440,
-		"common": 9
+		"ips": 423,
+		"common": 10
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 409,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 198,
+		"ips": 210,
 		"common": 3
 	},
 	{

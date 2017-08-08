@@ -248,7 +248,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15300,
+		"ips": 15299,
 		"common": 132
 	},
 	{
@@ -440,13 +440,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 14962,
+		"ips": 14973,
 		"common": 1
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 13418,
+		"ips": 13430,
 		"common": 1
 	},
 	{
@@ -662,7 +662,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9506152,
+		"ips": 9358448,
 		"common": 1390
 	},
 	{
@@ -854,7 +854,7 @@
 	{
 		"name": "iblocklist_hijacked",
 		"category": "attacks",
-		"ips": 9051648,
+		"ips": 8903936,
 		"common": 57
 	},
 	{
@@ -1064,8 +1064,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37038,
-		"common": 5
+		"ips": 37003,
+		"common": 6
 	},
 	{
 		"name": "nullsecure",
@@ -1323,6 +1323,12 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27252,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_unspecified",
+		"category": "attacks",
+		"ips": 210,
 		"common": 1
 	},
 	{

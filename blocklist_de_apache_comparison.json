@@ -116,8 +116,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15300,
-		"common": 115
+		"ips": 15299,
+		"common": 116
 	},
 	{
 		"name": "blueliv_crimeserver_last_2d",
@@ -290,13 +290,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 14962,
+		"ips": 14973,
 		"common": 8
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 13418,
+		"ips": 13430,
 		"common": 2
 	},
 	{
@@ -476,8 +476,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9506152,
-		"common": 169
+		"ips": 9358448,
+		"common": 170
 	},
 	{
 		"name": "firehol_webclient",
@@ -668,7 +668,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37038,
+		"ips": 37003,
 		"common": 5
 	},
 	{
@@ -680,7 +680,7 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3030,
+		"ips": 3064,
 		"common": 25
 	},
 	{
@@ -932,25 +932,25 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 418,
-		"common": 22
+		"ips": 402,
+		"common": 28
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 450,
-		"common": 1
+		"ips": 439,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 68,
+		"ips": 70,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 109,
+		"ips": 112,
 		"common": 6
 	},
 	{
@@ -960,15 +960,21 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 423,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 198,
+		"ips": 210,
 		"common": 6
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 23,
+		"ips": 25,
 		"common": 1
 	},
 	{
