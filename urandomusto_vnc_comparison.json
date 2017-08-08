@@ -15,12 +15,18 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 2093,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 30880,
+		"common": 2
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 8863,
 		"common": 1
 	},
 	{
@@ -111,7 +117,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 40048,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "firehol_level3",
@@ -123,7 +129,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740030,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "greensnow",
@@ -183,13 +189,13 @@
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2185,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "sorbs_dul",
@@ -213,12 +219,18 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27252,
-		"common": 5
+		"common": 7
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 225,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 84,
+		"ips": 88,
 		"common": 1
 	}
 ]
