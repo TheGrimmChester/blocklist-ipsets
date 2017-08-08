@@ -98,8 +98,8 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 386,
-		"common": 28
+		"ips": 400,
+		"common": 31
 	},
 	{
 		"name": "bambenek_necurs",
@@ -266,7 +266,7 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15927,
+		"ips": 15947,
 		"common": 491
 	},
 	{
@@ -342,27 +342,21 @@
 		"common": 559088635
 	},
 	{
-		"name": "botscout",
-		"category": "abuse",
-		"ips": 39,
-		"common": 2
-	},
-	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1172,
+		"ips": 1175,
 		"common": 100
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15129,
+		"ips": 15132,
 		"common": 1221
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4716,
+		"ips": 4727,
 		"common": 401
 	},
 	{
@@ -806,8 +800,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38756,
-		"common": 2732
+		"ips": 38827,
+		"common": 2737
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -824,14 +818,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652604879,
-		"common": 590020891
+		"ips": 652604893,
+		"common": 590020894
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39656,
-		"common": 1017
+		"ips": 39657,
+		"common": 1016
 	},
 	{
 		"name": "firehol_level3",
@@ -842,7 +836,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9510592,
+		"ips": 9510595,
 		"common": 57511
 	},
 	{
@@ -890,7 +884,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1644,
+		"ips": 1651,
 		"common": 60
 	},
 	{
@@ -1554,10 +1548,16 @@
 		"common": 156
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 3
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3069,
-		"common": 66
+		"ips": 3062,
+		"common": 65
 	},
 	{
 		"name": "socks_proxy_30d",
@@ -1568,7 +1568,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4895,
+		"ips": 4894,
 		"common": 136
 	},
 	{
