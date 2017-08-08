@@ -50,25 +50,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30742,
+		"ips": 30714,
 		"common": 153
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 423,
+		"ips": 418,
 		"common": 36
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2248,
+		"ips": 2240,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15947,
+		"ips": 15931,
 		"common": 117
 	},
 	{
@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19828,
+		"ips": 19826,
 		"common": 47
 	},
 	{
@@ -266,19 +266,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39657,
+		"ips": 39884,
 		"common": 154
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 131413,
+		"ips": 131396,
 		"common": 97
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9510535,
+		"ips": 9510536,
 		"common": 296
 	},
 	{
@@ -860,8 +860,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 74,
+		"ips": 84,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 80,
+		"common": 2
 	},
 	{
 		"name": "xroxy",
@@ -872,8 +878,8 @@
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 141,
-		"common": 61
+		"ips": 138,
+		"common": 60
 	},
 	{
 		"name": "xroxy_30d",

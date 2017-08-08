@@ -44,8 +44,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30742,
-		"common": 847
+		"ips": 30714,
+		"common": 852
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -56,8 +56,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19828,
-		"common": 44
+		"ips": 19826,
+		"common": 46
 	},
 	{
 		"name": "botscout_30d",
@@ -186,6 +186,18 @@
 		"common": 3
 	},
 	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 28416,
+		"common": 1
+	},
+	{
+		"name": "dshield_7d",
+		"category": "attacks",
+		"ips": 12800,
+		"common": 1
+	},
+	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
 		"ips": 893,
@@ -230,25 +242,25 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39657,
-		"common": 847
+		"ips": 39884,
+		"common": 852
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 131413,
-		"common": 12
+		"ips": 131396,
+		"common": 13
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9510535,
-		"common": 64
+		"ips": 9510536,
+		"common": 66
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34093,
+		"ips": 34095,
 		"common": 2
 	},
 	{
@@ -297,7 +309,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656154275,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -554,13 +566,13 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 74,
-		"common": 34
+		"ips": 84,
+		"common": 37
 	},
 	{
-		"name": "urandomusto_telnet",
+		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 378,
+		"ips": 188,
 		"common": 1
 	},
 	{
