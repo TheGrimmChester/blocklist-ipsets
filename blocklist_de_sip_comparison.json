@@ -56,8 +56,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31299,
-		"common": 878
+		"ips": 31417,
+		"common": 879
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -93,7 +93,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 29261,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -172,6 +172,12 @@
 		"category": "attacks",
 		"ips": 404,
 		"common": 15
+	},
+	{
+		"name": "dataplane_sipregistration",
+		"category": "attacks",
+		"ips": 93,
+		"common": 1
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -284,7 +290,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40485,
+		"ips": 40526,
 		"common": 2
 	},
 	{
@@ -302,20 +308,20 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652575179,
+		"ips": 652575181,
 		"common": 2
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39629,
-		"common": 878
+		"ips": 39746,
+		"common": 879
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132006,
-		"common": 79
+		"common": 80
 	},
 	{
 		"name": "firehol_level4",
@@ -348,6 +354,12 @@
 		"common": 30
 	},
 	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 1612,
+		"common": 1
+	},
+	{
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 22083,
@@ -375,7 +387,7 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 30206,
-		"common": 17
+		"common": 18
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -429,7 +441,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346612467,
-		"common": 43
+		"common": 44
 	},
 	{
 		"name": "iblocklist_level3",
@@ -524,19 +536,19 @@
 	{
 		"name": "ri_web_proxies_1d",
 		"category": "anonymizers",
-		"ips": 425,
+		"ips": 538,
 		"common": 1
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 5123,
+		"ips": 5133,
 		"common": 1
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1647,
+		"ips": 1720,
 		"common": 1
 	},
 	{
@@ -624,6 +636,12 @@
 		"common": 57
 	},
 	{
+		"name": "threatcrowd",
+		"category": "malware",
+		"ips": 6383,
+		"common": 1
+	},
+	{
 		"name": "trustedsec_atif",
 		"category": "reputation",
 		"ips": 1681,
@@ -651,6 +669,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30426,
-		"common": 63
+		"common": 64
 	}
 ]
