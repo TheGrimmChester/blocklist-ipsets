@@ -132,6 +132,12 @@
 		"common": 104
 	},
 	{
+		"name": "bambenek_matsnu",
+		"category": "malware",
+		"ips": 3,
+		"common": 1
+	},
+	{
 		"name": "bambenek_pykspa",
 		"category": "malware",
 		"ips": 5,
@@ -230,13 +236,13 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 1292,
+		"ips": 1291,
 		"common": 247
 	},
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 1576,
+		"ips": 1574,
 		"common": 291
 	},
 	{
@@ -254,25 +260,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7357,
-		"common": 1757
+		"ips": 7362,
+		"common": 1763
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9124,
-		"common": 1840
+		"ips": 9010,
+		"common": 1826
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28027,
+		"ips": 28031,
 		"common": 2683
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 15077,
+		"ips": 15075,
 		"common": 2188
 	},
 	{
@@ -338,8 +344,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20550,
-		"common": 1289
+		"ips": 20569,
+		"common": 1287
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -602,7 +608,7 @@
 	{
 		"name": "dataplane_sipregistration",
 		"category": "attacks",
-		"ips": 102,
+		"ips": 101,
 		"common": 25
 	},
 	{
@@ -620,8 +626,8 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 441,
-		"common": 81
+		"ips": 442,
+		"common": 82
 	},
 	{
 		"name": "dm_tor",
@@ -650,7 +656,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 519134,
+		"ips": 519166,
 		"common": 11572
 	},
 	{
@@ -674,7 +680,7 @@
 	{
 		"name": "dronebl_ddos_drones",
 		"category": "attacks",
-		"ips": 316327,
+		"ips": 316430,
 		"common": 1678
 	},
 	{
@@ -920,8 +926,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652604105,
-		"common": 14958
+		"ips": 652604098,
+		"common": 14957
 	},
 	{
 		"name": "firehol_level2",
@@ -938,8 +944,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9511214,
-		"common": 50297
+		"ips": 9511231,
+		"common": 50295
 	},
 	{
 		"name": "firehol_proxies",
@@ -1328,8 +1334,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 9421,
-		"common": 152
+		"ips": 9137,
+		"common": 149
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1592,8 +1598,8 @@
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 325,
-		"common": 46
+		"ips": 319,
+		"common": 45
 	},
 	{
 		"name": "ransomware_torrentlocker_c2",
@@ -1668,21 +1674,27 @@
 		"common": 276
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 2
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3051,
+		"ips": 3057,
 		"common": 38
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8964,
+		"ips": 8965,
 		"common": 129
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4927,
+		"ips": 4928,
 		"common": 69
 	},
 	{
@@ -1742,7 +1754,7 @@
 	{
 		"name": "sslbl",
 		"category": "malware",
-		"ips": 85,
+		"ips": 84,
 		"common": 14
 	},
 	{
@@ -1796,8 +1808,8 @@
 	{
 		"name": "stopforumspam_30d",
 		"category": "abuse",
-		"ips": 59965,
-		"common": 9966
+		"ips": 59330,
+		"common": 9861
 	},
 	{
 		"name": "stopforumspam_365d",
@@ -1814,8 +1826,8 @@
 	{
 		"name": "stopforumspam_90d",
 		"category": "abuse",
-		"ips": 155547,
-		"common": 23255
+		"ips": 155082,
+		"common": 23219
 	},
 	{
 		"name": "stopforumspam_toxic",
@@ -1844,25 +1856,25 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 893,
+		"ips": 894,
 		"common": 151
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
 		"ips": 939,
-		"common": 155
+		"common": 153
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 1924,
+		"ips": 1927,
 		"common": 278
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1164,
+		"ips": 1165,
 		"common": 186
 	},
 	{
