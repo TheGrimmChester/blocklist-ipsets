@@ -44,19 +44,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30839,
+		"ips": 30869,
 		"common": 43
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15966,
+		"ips": 15976,
 		"common": 42
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14375,
+		"ips": 14349,
 		"common": 1
 	},
 	{
@@ -230,37 +230,37 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 39229,
+		"ips": 39226,
 		"common": 31
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39994,
+		"ips": 40024,
 		"common": 43
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132007,
+		"ips": 132009,
 		"common": 10
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9505256,
+		"ips": 9505227,
 		"common": 18
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26111,
+		"ips": 26108,
 		"common": 29
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34740030,
+		"ips": 34739829,
 		"common": 11
 	},
 	{
@@ -344,8 +344,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37905,
-		"common": 5
+		"ips": 37868,
+		"common": 6
 	},
 	{
 		"name": "packetmail_mail",
@@ -564,21 +564,27 @@
 		"common": 3
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3084,
+		"ips": 3087,
 		"common": 19
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8995,
+		"ips": 8992,
 		"common": 23
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4895,
+		"ips": 4892,
 		"common": 22
 	},
 	{
@@ -614,7 +620,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 363,
+		"ips": 361,
 		"common": 1
 	},
 	{
@@ -626,7 +632,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1350,
+		"ips": 1345,
 		"common": 1
 	},
 	{
@@ -706,6 +712,12 @@
 		"category": "anonymizers",
 		"ips": 1166,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 327,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

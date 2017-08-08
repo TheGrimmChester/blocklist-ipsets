@@ -140,31 +140,31 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30839,
+		"ips": 30869,
 		"common": 17
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8855,
+		"ips": 8859,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 362,
+		"ips": 364,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15966,
+		"ips": 15976,
 		"common": 16
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14375,
+		"ips": 14349,
 		"common": 73
 	},
 	{
@@ -440,50 +440,50 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 39229,
+		"ips": 39226,
 		"common": 7
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652575195,
+		"ips": 652575197,
 		"common": 29
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39994,
+		"ips": 40024,
 		"common": 22
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132007,
+		"ips": 132009,
 		"common": 22
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9505256,
+		"ips": 9505227,
 		"common": 785
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26111,
+		"ips": 26108,
 		"common": 3
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34093,
+		"ips": 34094,
 		"common": 48
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34740030,
-		"common": 4706
+		"ips": 34739829,
+		"common": 4702
 	},
 	{
 		"name": "gofferje_sip",
@@ -572,8 +572,8 @@
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
-		"ips": 30164,
-		"common": 1278
+		"ips": 30058,
+		"common": 1273
 	},
 	{
 		"name": "hphosts_wrz",
@@ -810,6 +810,12 @@
 		"common": 31
 	},
 	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 37868,
+		"common": 1
+	},
+	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
@@ -908,7 +914,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5006,
+		"ips": 5005,
 		"common": 211
 	},
 	{
@@ -920,7 +926,7 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 141,
+		"ips": 140,
 		"common": 10
 	},
 	{
@@ -992,7 +998,7 @@
 	{
 		"name": "sslbl_aggressive",
 		"category": "malware",
-		"ips": 2925,
+		"ips": 2927,
 		"common": 1
 	},
 	{
@@ -1090,6 +1096,12 @@
 		"category": "reputation",
 		"ips": 27252,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 317,
+		"common": 1
 	},
 	{
 		"name": "urlvir",
