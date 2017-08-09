@@ -44,7 +44,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32336,
+		"ips": 32434,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9072,
 		"common": 1
 	},
 	{
@@ -80,7 +86,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 403,
+		"ips": 405,
 		"common": 3
 	},
 	{
@@ -92,7 +98,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 457,
+		"ips": 459,
 		"common": 1
 	},
 	{
@@ -158,7 +164,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40534,
+		"ips": 40632,
 		"common": 25
 	},
 	{
@@ -170,7 +176,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9359361,
+		"ips": 9359359,
 		"common": 2
 	},
 	{
@@ -188,7 +194,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1719,
+		"ips": 1732,
 		"common": 9
 	},
 	{
@@ -314,20 +320,26 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 164,
+		"ips": 172,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 340,
+		"ips": 335,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 355,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 243,
-		"common": 4
+		"ips": 244,
+		"common": 3
 	},
 	{
 		"name": "voipbl",
