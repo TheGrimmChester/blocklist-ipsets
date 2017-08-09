@@ -68,13 +68,13 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 16146,
-		"common": 29
+		"ips": 16189,
+		"common": 28
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15137,
+		"ips": 15129,
 		"common": 1
 	},
 	{
@@ -188,7 +188,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 15485,
+		"ips": 15521,
 		"common": 6
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38445,
+		"ips": 38453,
 		"common": 206
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40289,
+		"ips": 40287,
 		"common": 887
 	},
 	{
@@ -290,8 +290,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9359287,
-		"common": 45
+		"ips": 9359311,
+		"common": 44
 	},
 	{
 		"name": "firehol_webclient",
@@ -314,8 +314,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1793,
-		"common": 96
+		"ips": 1786,
+		"common": 94
 	},
 	{
 		"name": "haley_ssh",
@@ -446,8 +446,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38543,
-		"common": 3
+		"ips": 38537,
+		"common": 2
 	},
 	{
 		"name": "packetmail",
@@ -596,8 +596,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 180,
-		"common": 47
+		"ips": 191,
+		"common": 50
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 358,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
