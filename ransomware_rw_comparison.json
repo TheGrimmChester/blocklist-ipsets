@@ -33,7 +33,7 @@
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 30542,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -44,37 +44,37 @@
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 29655,
+		"ips": 29833,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 123515,
+		"ips": 123521,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 63402,
+		"ips": 63415,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 33952,
+		"ips": 34187,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 163164,
+		"ips": 163177,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 81093,
+		"ips": 81126,
 		"common": 1
 	},
 	{
@@ -110,20 +110,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37258,
+		"ips": 37455,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 272041,
+		"ips": 272062,
 		"common": 3
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652551389,
-		"common": 320
+		"ips": 652551386,
+		"common": 317
 	},
 	{
 		"name": "firehol_level3",
@@ -147,7 +147,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739691,
-		"common": 61
+		"common": 58
 	},
 	{
 		"name": "gofferje_sip",
@@ -165,7 +165,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26656,
-		"common": 14
+		"common": 11
 	},
 	{
 		"name": "hphosts_exp",
@@ -201,13 +201,13 @@
 		"name": "hphosts_pha",
 		"category": "reputation",
 		"ips": 1752,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 30253,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "hphosts_wrz",
@@ -225,7 +225,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656156835,
-		"common": 50
+		"common": 49
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -237,13 +237,13 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227916176,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762690837,
-		"common": 19
+		"common": 18
 	},
 	{
 		"name": "iblocklist_level2",
@@ -297,25 +297,19 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 45
+		"common": 44
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 5007,
-		"common": 260
+		"common": 258
 	},
 	{
 		"name": "ransomware_locky_c2",
 		"category": "malware",
 		"ips": 259,
 		"common": 251
-	},
-	{
-		"name": "ransomware_locky_ps",
-		"category": "malware",
-		"ips": 3,
-		"common": 2
 	},
 	{
 		"name": "ransomware_online",
@@ -326,8 +320,8 @@
 	{
 		"name": "ransomware_torrentlocker_c2",
 		"category": "malware",
-		"ips": 10,
-		"common": 10
+		"ips": 9,
+		"common": 9
 	},
 	{
 		"name": "snort_ipfilter",
