@@ -56,37 +56,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32619,
-		"common": 84
+		"ips": 32602,
+		"common": 86
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9077,
+		"ips": 9074,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 881,
-		"common": 46
+		"ips": 882,
+		"common": 47
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2115,
+		"ips": 2127,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17923,
-		"common": 33
+		"ips": 17950,
+		"common": 34
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 12428,
+		"ips": 12387,
 		"common": 3
 	},
 	{
@@ -98,13 +98,13 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 16070,
+		"ips": 16114,
 		"common": 10
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15140,
+		"ips": 15138,
 		"common": 1
 	},
 	{
@@ -129,19 +129,19 @@
 		"name": "cleantalk_1d",
 		"category": "abuse",
 		"ips": 30866,
-		"common": 34
+		"common": 35
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 123665,
-		"common": 45
+		"common": 46
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 63829,
-		"common": 42
+		"common": 43
 	},
 	{
 		"name": "cleantalk_new_1d",
@@ -153,7 +153,7 @@
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 20241,
-		"common": 22
+		"common": 23
 	},
 	{
 		"name": "cleantalk_new_7d",
@@ -171,19 +171,19 @@
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
 		"ips": 35657,
-		"common": 33
+		"common": 34
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 163405,
-		"common": 46
+		"common": 47
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 81655,
-		"common": 42
+		"common": 43
 	},
 	{
 		"name": "cybercrime",
@@ -279,7 +279,7 @@
 		"name": "dshield_top_1000",
 		"category": "attacks",
 		"ips": 878,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "et_block",
@@ -308,19 +308,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38554,
-		"common": 34
+		"ips": 38558,
+		"common": 35
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 272998,
-		"common": 47
+		"common": 48
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38719,
+		"ips": 38686,
 		"common": 6
 	},
 	{
@@ -332,25 +332,25 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40059,
-		"common": 98
+		"ips": 40071,
+		"common": 101
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 131816,
-		"common": 20
+		"common": 21
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9359208,
+		"ips": 9359249,
 		"common": 22
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26171,
+		"ips": 26176,
 		"common": 6
 	},
 	{
@@ -374,8 +374,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1736,
-		"common": 27
+		"ips": 1777,
+		"common": 29
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -465,7 +465,7 @@
 		"name": "packetmail_mail",
 		"category": "reputation",
 		"ips": 324,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -759,36 +759,42 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27252,
-		"common": 20
+		"common": 21
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 335,
+		"ips": 319,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 450,
-		"common": 4
+		"ips": 449,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 85,
+		"ips": 88,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 149,
+		"ips": 154,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 442,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 244,
+		"ips": 252,
 		"common": 1
 	},
 	{
