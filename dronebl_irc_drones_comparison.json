@@ -62,7 +62,7 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28225,
+		"ips": 28229,
 		"common": 3
 	},
 	{
@@ -122,8 +122,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15880,
-		"common": 306
+		"ips": 15983,
+		"common": 308
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -152,26 +152,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 39,
-		"common": 1
+		"ips": 49,
+		"common": 3
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1123,
-		"common": 9
+		"ips": 1120,
+		"common": 12
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15158,
-		"common": 289
+		"ips": 15156,
+		"common": 292
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4815,
-		"common": 50
+		"ips": 4811,
+		"common": 53
 	},
 	{
 		"name": "botvrij_dst",
@@ -314,7 +314,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6659,
+		"ips": 6685,
 		"common": 10
 	},
 	{
@@ -332,7 +332,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 527609,
+		"ips": 527610,
 		"common": 7096
 	},
 	{
@@ -452,7 +452,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39464,
+		"ips": 39466,
 		"common": 754
 	},
 	{
@@ -464,7 +464,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38525,
+		"ips": 38606,
 		"common": 995
 	},
 	{
@@ -476,7 +476,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40651,
+		"ips": 40633,
 		"common": 240
 	},
 	{
@@ -488,8 +488,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9359029,
-		"common": 990
+		"ips": 9359127,
+		"common": 995
 	},
 	{
 		"name": "firehol_proxies",
@@ -530,7 +530,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2225,
+		"ips": 2207,
 		"common": 27
 	},
 	{
@@ -1310,19 +1310,19 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 346,
-		"common": 3
+		"ips": 348,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 429,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 428,
+		"ips": 422,
 		"common": 1
 	},
 	{
@@ -1332,9 +1332,15 @@
 		"common": 12
 	},
 	{
+		"name": "xroxy",
+		"category": "anonymizers",
+		"ips": 58,
+		"common": 1
+	},
+	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 149,
+		"ips": 148,
 		"common": 4
 	},
 	{
@@ -1346,7 +1352,7 @@
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 325,
+		"ips": 322,
 		"common": 6
 	}
 ]
