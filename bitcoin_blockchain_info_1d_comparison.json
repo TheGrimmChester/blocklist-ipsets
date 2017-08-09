@@ -54,9 +54,15 @@
 		"common": 1208
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 34857,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20090,
+		"ips": 20208,
 		"common": 1
 	},
 	{
@@ -140,8 +146,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38754,
+		"ips": 38752,
 		"common": 24
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 43161,
+		"common": 1
 	},
 	{
 		"name": "firehol_level3",
@@ -152,7 +164,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9360142,
+		"ips": 9360175,
 		"common": 3
 	},
 	{
