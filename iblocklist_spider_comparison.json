@@ -128,25 +128,25 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6760,
+		"ips": 6736,
 		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1121,
+		"ips": 1113,
 		"common": 3
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15132,
+		"ips": 15134,
 		"common": 15
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4861,
+		"ips": 4856,
 		"common": 7
 	},
 	{
@@ -314,7 +314,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37543,
+		"ips": 37545,
 		"common": 76
 	},
 	{
@@ -326,7 +326,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38746,
+		"ips": 38664,
 		"common": 5
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42452,
+		"ips": 42459,
 		"common": 73
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9359976,
+		"ips": 9359978,
 		"common": 1443
 	},
 	{
@@ -842,13 +842,19 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 392,
+		"ips": 438,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
 		"ips": 41,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 436,
 		"common": 1
 	},
 	{
