@@ -3,7 +3,7 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 400,
-		"common": 21
+		"common": 19
 	},
 	{
 		"name": "bogons",
@@ -33,12 +33,12 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652551395,
-		"common": 21
+		"common": 19
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9359837,
+		"ips": 9359936,
 		"common": 1
 	},
 	{
@@ -76,6 +76,18 @@
 		"category": "unroutable",
 		"ips": 536870912,
 		"common": 15
+	},
+	{
+		"name": "iblocklist_isp_comcast",
+		"category": "organizations",
+		"ips": 45121536,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346612467,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
