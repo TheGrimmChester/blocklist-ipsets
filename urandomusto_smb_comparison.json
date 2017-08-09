@@ -66,6 +66,12 @@
 		"common": 1
 	},
 	{
+		"name": "dragon_http",
+		"category": "attacks",
+		"ips": 59136,
+		"common": 1
+	},
+	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 312355,
@@ -87,13 +93,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 28416,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 12288,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -110,14 +116,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40278,
+		"ips": 40272,
 		"common": 4
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132004,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "firehol_webserver",
@@ -128,7 +134,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2184,
+		"ips": 2180,
 		"common": 4
 	},
 	{
@@ -142,6 +148,12 @@
 		"category": "reputation",
 		"ips": 30206,
 		"common": 6
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227898648,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_isp_att",
@@ -159,7 +171,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346612467,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "iblocklist_level3",
@@ -225,12 +237,12 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27252,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 126,
+		"ips": 131,
 		"common": 1
 	}
 ]
