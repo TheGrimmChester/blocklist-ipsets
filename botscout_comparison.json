@@ -38,8 +38,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32387,
-		"common": 7
+		"ips": 32411,
+		"common": 8
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -170,13 +170,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 15406,
+		"ips": 15448,
 		"common": 8
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 13843,
+		"ips": 13884,
 		"common": 8
 	},
 	{
@@ -248,8 +248,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40572,
-		"common": 7
+		"ips": 40590,
+		"common": 8
 	},
 	{
 		"name": "firehol_level3",
@@ -394,6 +394,12 @@
 		"category": "abuse",
 		"ips": 3439,
 		"common": 3
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 36698,
+		"common": 1
 	},
 	{
 		"name": "nullsecure",
