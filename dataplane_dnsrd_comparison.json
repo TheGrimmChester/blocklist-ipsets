@@ -134,8 +134,8 @@
 	{
 		"name": "dataplane_dnsversion",
 		"category": "attacks",
-		"ips": 210,
-		"common": 210
+		"ips": 207,
+		"common": 207
 	},
 	{
 		"name": "dataplane_sipquery",
@@ -224,7 +224,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40563,
+		"ips": 40572,
 		"common": 183
 	},
 	{
@@ -236,14 +236,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9359434,
+		"ips": 9359453,
 		"common": 4
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739829,
-		"common": 127
+		"common": 125
 	},
 	{
 		"name": "gofferje_sip",
@@ -254,7 +254,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1693,
+		"ips": 1700,
 		"common": 20
 	},
 	{
@@ -291,7 +291,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762690837,
-		"common": 25
+		"common": 24
 	},
 	{
 		"name": "iblocklist_level2",
@@ -303,7 +303,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139022287,
-		"common": 44
+		"common": 43
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -357,7 +357,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 127
+		"common": 125
 	},
 	{
 		"name": "snort_ipfilter",
@@ -404,14 +404,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 163,
+		"ips": 164,
 		"common": 6
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 337,
-		"common": 6
+		"ips": 340,
+		"common": 8
 	},
 	{
 		"name": "urandomusto_mailer",
@@ -422,19 +422,31 @@
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 84,
+		"ips": 85,
 		"common": 17
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 135,
+		"ips": 141,
 		"common": 4
+	},
+	{
+		"name": "urandomusto_smb",
+		"category": "attacks",
+		"ips": 29,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 377,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 242,
+		"ips": 243,
 		"common": 12
 	},
 	{
