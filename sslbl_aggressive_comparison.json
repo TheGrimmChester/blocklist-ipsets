@@ -15,7 +15,7 @@
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5268567,
-		"common": 32
+		"common": 33
 	},
 	{
 		"name": "bbcan177_ms3",
@@ -126,39 +126,51 @@
 		"common": 2
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2289,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 30078,
+		"ips": 29992,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 123560,
+		"ips": 123567,
 		"common": 7
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 63540,
+		"ips": 63513,
 		"common": 7
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 34473,
+		"ips": 34367,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 163260,
+		"ips": 163266,
 		"common": 7
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 81219,
+		"ips": 81179,
 		"common": 7
 	},
 	{
@@ -176,7 +188,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 15541,
+		"ips": 15557,
 		"common": 1
 	},
 	{
@@ -434,13 +446,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37534,
+		"ips": 37433,
 		"common": 4
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 272088,
+		"ips": 272097,
 		"common": 11
 	},
 	{
@@ -452,8 +464,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652551398,
-		"common": 575
+		"ips": 652551401,
+		"common": 578
 	},
 	{
 		"name": "firehol_level2",
@@ -464,8 +476,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132492,
-		"common": 2932
+		"ips": 132495,
+		"common": 2935
 	},
 	{
 		"name": "firehol_level4",
@@ -482,8 +494,8 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34108,
-		"common": 2932
+		"ips": 34111,
+		"common": 2935
 	},
 	{
 		"name": "firehol_webserver",
@@ -555,7 +567,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656156835,
-		"common": 184
+		"common": 185
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -699,7 +711,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 737
+		"common": 738
 	},
 	{
 		"name": "lashback_ubl",
@@ -842,8 +854,8 @@
 	{
 		"name": "sslbl",
 		"category": "malware",
-		"ips": 92,
-		"common": 92
+		"ips": 95,
+		"common": 95
 	},
 	{
 		"name": "stopforumspam",
