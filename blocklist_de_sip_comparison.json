@@ -18,28 +18,22 @@
 		"common": 2
 	},
 	{
-		"name": "bi_any_2_1d",
-		"category": "attacks",
-		"ips": 201,
-		"common": 1
-	},
-	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 2884,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 1569,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "bi_mail_2_30d",
 		"category": "attacks",
 		"ips": 1227,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -56,19 +50,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32904,
+		"ips": 33210,
 		"common": 133
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 172,
+		"ips": 173,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 16348,
+		"ips": 16531,
 		"common": 5
 	},
 	{
@@ -170,7 +164,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 15521,
+		"ips": 15541,
 		"common": 8
 	},
 	{
@@ -230,7 +224,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40396,
+		"ips": 40698,
 		"common": 133
 	},
 	{
@@ -242,7 +236,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9359454,
+		"ips": 9359630,
 		"common": 12
 	},
 	{
@@ -303,6 +297,12 @@
 		"name": "iblocklist_isp_aol",
 		"category": "organizations",
 		"ips": 6627584,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_comcast",
+		"category": "organizations",
+		"ips": 45121536,
 		"common": 1
 	},
 	{
@@ -381,7 +381,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "sorbs_web",
