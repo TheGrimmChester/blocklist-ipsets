@@ -200,19 +200,19 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1119,
+		"ips": 1115,
 		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15152,
+		"ips": 15163,
 		"common": 30
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4823,
+		"ips": 4819,
 		"common": 9
 	},
 	{
@@ -356,8 +356,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6685,
-		"common": 88
+		"ips": 6684,
+		"common": 90
 	},
 	{
 		"name": "dragon_http",
@@ -608,7 +608,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39518,
+		"ips": 39524,
 		"common": 65
 	},
 	{
@@ -620,8 +620,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38620,
-		"common": 283
+		"ips": 38658,
+		"common": 285
 	},
 	{
 		"name": "firehol_level1",
@@ -632,7 +632,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40914,
+		"ips": 40912,
 		"common": 106
 	},
 	{
@@ -644,7 +644,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9359187,
+		"ips": 9359198,
 		"common": 682
 	},
 	{
@@ -656,7 +656,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34106,
+		"ips": 34104,
 		"common": 311
 	},
 	{
@@ -668,7 +668,7 @@
 	{
 		"name": "gpf_comics",
 		"category": "abuse",
-		"ips": 3180,
+		"ips": 3181,
 		"common": 1
 	},
 	{
@@ -680,7 +680,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2203,
+		"ips": 2198,
 		"common": 2
 	},
 	{
@@ -1226,19 +1226,25 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 348,
+		"ips": 352,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 429,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 438,
-		"common": 3
+		"ips": 449,
+		"common": 9
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 422,
+		"ips": 435,
 		"common": 3
 	},
 	{
