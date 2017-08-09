@@ -51,13 +51,13 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 29261,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
 		"ips": 408,
-		"common": 18
+		"common": 19
 	},
 	{
 		"name": "dataplane_dnsrdany",
@@ -69,7 +69,7 @@
 		"name": "dataplane_dnsversion",
 		"category": "attacks",
 		"ips": 224,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "dataplane_sipquery",
@@ -146,25 +146,25 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652573156,
+		"ips": 652573159,
 		"common": 19
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40698,
+		"ips": 40711,
 		"common": 25
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 131287,
-		"common": 32
+		"ips": 131291,
+		"common": 33
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9359630,
+		"ips": 9359635,
 		"common": 2
 	},
 	{
@@ -177,12 +177,12 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095979,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1798,
+		"ips": 1810,
 		"common": 8
 	},
 	{
@@ -195,13 +195,13 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656156835,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 30206,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "iblocklist_level1",
@@ -297,7 +297,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27252,
-		"common": 21
+		"common": 22
 	},
 	{
 		"name": "urandomusto_dns",
@@ -308,26 +308,32 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 191,
+		"ips": 213,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 358,
+		"ips": 360,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_smb",
+		"category": "attacks",
+		"ips": 39,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 433,
+		"ips": 441,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 260,
-		"common": 3
+		"ips": 269,
+		"common": 4
 	},
 	{
 		"name": "voipbl",
