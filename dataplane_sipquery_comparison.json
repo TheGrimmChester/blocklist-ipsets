@@ -26,7 +26,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 435,
+		"ips": 434,
 		"common": 5
 	},
 	{
@@ -176,7 +176,7 @@
 	{
 		"name": "dataplane_sipinvitation",
 		"category": "attacks",
-		"ips": 23,
+		"ips": 22,
 		"common": 7
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 467,
+		"ips": 468,
 		"common": 61
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38693,
+		"ips": 38715,
 		"common": 1
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26155,
+		"ips": 26178,
 		"common": 1
 	},
 	{
@@ -321,7 +321,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739691,
-		"common": 123
+		"common": 124
 	},
 	{
 		"name": "gofferje_sip",
@@ -405,7 +405,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139022287,
-		"common": 88
+		"common": 89
 	},
 	{
 		"name": "iblocklist_org_blizzard",
@@ -441,12 +441,18 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1263557,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "maxmind_proxy_fraud",
 		"category": "anonymizers",
 		"ips": 455,
+		"common": 1
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 37004,
 		"common": 1
 	},
 	{
@@ -495,7 +501,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 113
+		"common": 114
 	},
 	{
 		"name": "sblam",
@@ -675,6 +681,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30469,
-		"common": 271
+		"common": 272
 	}
 ]

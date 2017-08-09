@@ -96,6 +96,12 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 17180,
+		"common": 1
+	},
+	{
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 30542,
@@ -194,7 +200,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 411,
+		"ips": 414,
 		"common": 61
 	},
 	{
@@ -302,7 +308,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38693,
+		"ips": 38715,
 		"common": 3
 	},
 	{
@@ -327,12 +333,12 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9360230,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26155,
+		"ips": 26178,
 		"common": 1
 	},
 	{
@@ -417,7 +423,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691199,
-		"common": 20
+		"common": 19
 	},
 	{
 		"name": "iblocklist_level2",
@@ -573,7 +579,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 29
+		"common": 30
 	},
 	{
 		"name": "sorbs_noserver",
@@ -674,13 +680,13 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 886,
+		"ips": 887,
 		"common": 3
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 926,
+		"ips": 928,
 		"common": 3
 	},
 	{
@@ -692,7 +698,7 @@
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1155,
+		"ips": 1156,
 		"common": 3
 	},
 	{

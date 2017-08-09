@@ -44,19 +44,25 @@
 	{
 		"name": "dataplane_sipinvitation",
 		"category": "attacks",
-		"ips": 23,
+		"ips": 22,
 		"common": 1
 	},
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 411,
+		"ips": 414,
 		"common": 4
 	},
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 527609,
+		"common": 1
+	},
+	{
+		"name": "dronebl_auto_botnets",
+		"category": "reputation",
+		"ips": 312353,
 		"common": 1
 	},
 	{
@@ -105,7 +111,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095979,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "greensnow",
@@ -177,7 +183,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "sorbs_web",
@@ -213,6 +219,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30469,
-		"common": 42
+		"common": 41
 	}
 ]
