@@ -38,8 +38,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 37319,
-		"common": 108
+		"ips": 37262,
+		"common": 109
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 12123,
+		"common": 1
 	},
 	{
 		"name": "bruteforceblocker",
@@ -87,13 +93,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 16089,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 14280,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "dragon_http",
@@ -105,7 +111,7 @@
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 312350,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "dshield_30d",
@@ -134,8 +140,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44865,
-		"common": 108
+		"ips": 44836,
+		"common": 109
 	},
 	{
 		"name": "firehol_level3",
@@ -146,14 +152,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9455519,
+		"ips": 9455514,
 		"common": 6
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739595,
-		"common": 33
+		"common": 34
 	},
 	{
 		"name": "gofferje_sip",
@@ -164,7 +170,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1942,
+		"ips": 1965,
 		"common": 2
 	},
 	{
@@ -249,7 +255,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 33
+		"common": 34
 	},
 	{
 		"name": "sorbs_dul",
