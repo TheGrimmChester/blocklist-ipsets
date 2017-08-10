@@ -51,7 +51,13 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 36697,
-		"common": 130
+		"common": 133
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 12273,
+		"common": 2
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -224,8 +230,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45393,
-		"common": 130
+		"ips": 45414,
+		"common": 133
 	},
 	{
 		"name": "firehol_level3",
@@ -255,7 +261,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095980,
-		"common": 31
+		"common": 32
 	},
 	{
 		"name": "haley_ssh",
@@ -309,7 +315,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139022287,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -321,7 +327,7 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4057279,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
