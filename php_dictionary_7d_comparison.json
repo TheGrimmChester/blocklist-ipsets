@@ -32,7 +32,7 @@
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14474,
+		"ips": 14477,
 		"common": 1
 	},
 	{
@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19920,
+		"ips": 19840,
 		"common": 7
 	},
 	{
@@ -170,7 +170,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 16169,
+		"ips": 16215,
 		"common": 3
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9447480,
+		"ips": 9447395,
 		"common": 51
 	},
 	{
@@ -374,14 +374,20 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 10674,
-		"common": 26
+		"ips": 10594,
+		"common": 27
 	},
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
 		"ips": 309,
 		"common": 2
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2572,
+		"common": 1
 	},
 	{
 		"name": "php_commenters",

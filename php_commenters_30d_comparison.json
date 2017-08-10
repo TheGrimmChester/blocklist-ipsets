@@ -20,8 +20,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 274,
-		"common": 38
+		"ips": 282,
+		"common": 41
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -98,7 +98,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19920,
+		"ips": 19840,
 		"common": 99
 	},
 	{
@@ -266,7 +266,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 16169,
+		"ips": 16215,
 		"common": 141
 	},
 	{
@@ -416,7 +416,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9447480,
+		"ips": 9447395,
 		"common": 595
 	},
 	{
@@ -632,8 +632,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 10674,
-		"common": 5
+		"ips": 10594,
+		"common": 6
 	},
 	{
 		"name": "nullsecure",
@@ -658,6 +658,12 @@
 		"category": "reputation",
 		"ips": 309,
 		"common": 1
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2572,
+		"common": 4
 	},
 	{
 		"name": "php_commenters",
