@@ -56,26 +56,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36480,
-		"common": 761
+		"ips": 36446,
+		"common": 759
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 9266,
-		"common": 761
+		"common": 759
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 171,
+		"ips": 172,
 		"common": 6
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 17296,
-		"common": 446
+		"ips": 17281,
+		"common": 444
 	},
 	{
 		"name": "blueliv_crimeserver_last_2d",
@@ -141,13 +141,13 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 123199,
-		"common": 190
+		"common": 189
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 62658,
-		"common": 133
+		"common": 132
 	},
 	{
 		"name": "cleantalk_new",
@@ -189,13 +189,13 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 162698,
-		"common": 195
+		"common": 194
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 80300,
-		"common": 134
+		"common": 133
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -207,7 +207,7 @@
 		"name": "cybercrime",
 		"category": "malware",
 		"ips": 30415,
-		"common": 59
+		"common": 58
 	},
 	{
 		"name": "darklist_de",
@@ -236,7 +236,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 529239,
+		"ips": 529326,
 		"common": 11
 	},
 	{
@@ -297,7 +297,7 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 271886,
-		"common": 204
+		"common": 203
 	},
 	{
 		"name": "firehol_anonymous",
@@ -314,8 +314,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45154,
-		"common": 761
+		"ips": 45122,
+		"common": 759
 	},
 	{
 		"name": "firehol_level3",
@@ -326,8 +326,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9453003,
-		"common": 476
+		"ips": 9452988,
+		"common": 473
 	},
 	{
 		"name": "firehol_proxies",
@@ -339,7 +339,7 @@
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 34114,
-		"common": 60
+		"common": 59
 	},
 	{
 		"name": "firehol_webserver",
@@ -423,7 +423,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346606274,
-		"common": 36
+		"common": 35
 	},
 	{
 		"name": "iblocklist_level3",
@@ -458,7 +458,7 @@
 	{
 		"name": "ipblacklistcloud_recent_1d",
 		"category": "abuse",
-		"ips": 64,
+		"ips": 32,
 		"common": 2
 	},
 	{
@@ -501,7 +501,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1263557,
-		"common": 375
+		"common": 374
 	},
 	{
 		"name": "nixspam",
@@ -584,7 +584,7 @@
 	{
 		"name": "sblam",
 		"category": "abuse",
-		"ips": 19676,
+		"ips": 19516,
 		"common": 5
 	},
 	{
@@ -642,9 +642,15 @@
 		"common": 1
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
+	},
+	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 451,
+		"ips": 452,
 		"common": 1
 	},
 	{
