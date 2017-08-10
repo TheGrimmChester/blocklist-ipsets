@@ -24,10 +24,28 @@
 		"common": 10
 	},
 	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 24518997,
+		"common": 1
+	},
+	{
+		"name": "et_spamhaus",
+		"category": "attacks",
+		"ips": 24512768,
+		"common": 1
+	},
+	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652550873,
-		"common": 16
+		"common": 17
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9453049,
+		"common": 1
 	},
 	{
 		"name": "fullbogons",
@@ -44,7 +62,7 @@
 	{
 		"name": "iblocklist_cidr_report_bogons",
 		"category": "unrouteable",
-		"ips": 601223368,
+		"ips": 601216200,
 		"common": 10
 	},
 	{
@@ -52,6 +70,12 @@
 		"category": "reputation",
 		"ips": 302055424,
 		"common": 10
+	},
+	{
+		"name": "iblocklist_hijacked",
+		"category": "attacks",
+		"ips": 8996608,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_iana_reserved",
@@ -72,9 +96,21 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_spamhaus_drop",
+		"category": "attacks",
+		"ips": 24577024,
+		"common": 1
+	},
+	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
+		"common": 1
+	},
+	{
+		"name": "spamhaus_drop",
+		"category": "reputation",
+		"ips": 24576512,
 		"common": 1
 	}
 ]

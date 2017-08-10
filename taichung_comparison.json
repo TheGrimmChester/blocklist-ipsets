@@ -104,14 +104,20 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28437,
+		"ips": 28441,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 37095,
-		"common": 344
+		"ips": 37003,
+		"common": 342
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9440,
+		"common": 22
 	},
 	{
 		"name": "blocklist_de_bruteforce",
@@ -122,26 +128,32 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 846,
+		"ips": 837,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1955,
+		"ips": 1943,
 		"common": 14
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 22174,
+		"common": 33
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 172,
+		"ips": 169,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 12279,
-		"common": 280
+		"ips": 12229,
+		"common": 277
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -518,8 +530,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45476,
-		"common": 512
+		"ips": 45384,
+		"common": 510
 	},
 	{
 		"name": "firehol_level3",
@@ -650,7 +662,7 @@
 	{
 		"name": "iblocklist_cidr_report_bogons",
 		"category": "unrouteable",
-		"ips": 601223368,
+		"ips": 601216200,
 		"common": 19
 	},
 	{

@@ -50,19 +50,25 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28437,
+		"ips": 28441,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 37095,
+		"ips": 37003,
 		"common": 14
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9440,
+		"common": 2
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 437,
+		"ips": 436,
 		"common": 4
 	},
 	{
@@ -72,9 +78,15 @@
 		"common": 2
 	},
 	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 22174,
+		"common": 8
+	},
+	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 181,
+		"ips": 182,
 		"common": 2
 	},
 	{
@@ -308,7 +320,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45476,
+		"ips": 45384,
 		"common": 14
 	},
 	{
@@ -380,7 +392,7 @@
 	{
 		"name": "iblocklist_cidr_report_bogons",
 		"category": "unrouteable",
-		"ips": 601223368,
+		"ips": 601216200,
 		"common": 2
 	},
 	{
@@ -716,7 +728,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2640,
+		"ips": 2638,
 		"common": 1
 	},
 	{
