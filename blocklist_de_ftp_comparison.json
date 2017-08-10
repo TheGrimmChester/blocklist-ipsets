@@ -56,13 +56,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 37192,
-		"common": 814
+		"ips": 37108,
+		"common": 810
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 183,
+		"ips": 182,
 		"common": 1
 	},
 	{
@@ -93,13 +93,13 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 123159,
-		"common": 237
+		"common": 234
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 62761,
-		"common": 217
+		"common": 214
 	},
 	{
 		"name": "cleantalk_new",
@@ -117,13 +117,13 @@
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 20285,
-		"common": 130
+		"common": 128
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
 		"ips": 4264,
-		"common": 96
+		"common": 94
 	},
 	{
 		"name": "cleantalk_updated",
@@ -141,13 +141,13 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 162432,
-		"common": 236
+		"common": 233
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 80252,
-		"common": 214
+		"common": 211
 	},
 	{
 		"name": "cybercrime",
@@ -177,7 +177,7 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 16041,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "dataplane_sshpwauth",
@@ -261,7 +261,7 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 271899,
-		"common": 241
+		"common": 238
 	},
 	{
 		"name": "firehol_anonymous",
@@ -278,8 +278,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45517,
-		"common": 814
+		"ips": 45433,
+		"common": 810
 	},
 	{
 		"name": "firehol_level3",
@@ -333,7 +333,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26656,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "hphosts_mmt",
@@ -372,6 +372,12 @@
 		"common": 11
 	},
 	{
+		"name": "iblocklist_isp_att",
+		"category": "organizations",
+		"ips": 55845128,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_isp_cablevision",
 		"category": "organizations",
 		"ips": 1787136,
@@ -381,7 +387,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691199,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "iblocklist_level2",
@@ -447,7 +453,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3668,
-		"common": 98
+		"common": 97
 	},
 	{
 		"name": "packetmail_emerging_ips",
@@ -471,7 +477,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 20
+		"common": 19
+	},
+	{
+		"name": "ransomware_feed",
+		"category": "malware",
+		"ips": 5011,
+		"common": 1
 	},
 	{
 		"name": "sblam",
@@ -507,7 +519,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 24
+		"common": 23
 	},
 	{
 		"name": "spamhaus_drop",
