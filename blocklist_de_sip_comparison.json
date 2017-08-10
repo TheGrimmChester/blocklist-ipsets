@@ -6,6 +6,12 @@
 		"common": 5
 	},
 	{
+		"name": "atlas_scans_30d",
+		"category": "attacks",
+		"ips": 99,
+		"common": 1
+	},
+	{
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 2449,
@@ -15,7 +21,7 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 2898,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "bi_any_2_7d",
@@ -30,9 +36,15 @@
 		"common": 1
 	},
 	{
+		"name": "bi_voip_2_30d",
+		"category": "attacks",
+		"ips": 7,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36923,
+		"ips": 36836,
 		"common": 110
 	},
 	{
@@ -51,12 +63,18 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 123105,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 162322,
+		"common": 2
+	},
+	{
+		"name": "cruzit_web_attacks",
+		"category": "attacks",
+		"ips": 7286,
 		"common": 1
 	},
 	{
@@ -87,13 +105,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 16316,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 14489,
-		"common": 6
+		"common": 5
 	},
 	{
 		"name": "dragon_http",
@@ -129,12 +147,12 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 271400,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45948,
+		"ips": 45867,
 		"common": 110
 	},
 	{
@@ -147,19 +165,19 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9484429,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739572,
-		"common": 34
+		"common": 35
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095981,
-		"common": 33
+		"common": 35
 	},
 	{
 		"name": "greensnow",
@@ -186,6 +204,12 @@
 		"common": 8
 	},
 	{
+		"name": "iblocklist_cruzit_web_attacks",
+		"category": "attacks",
+		"ips": 7257,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227915504,
@@ -207,13 +231,13 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346612497,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 138940759,
-		"common": 15
+		"common": 17
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -232,6 +256,12 @@
 		"category": "reputation",
 		"ips": 330818,
 		"common": 3
+	},
+	{
+		"name": "jigsaw_attacks",
+		"category": "attacks",
+		"ips": 27109,
+		"common": 1
 	},
 	{
 		"name": "jigsaw_malware",
@@ -267,7 +297,7 @@
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 537175,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "taichung",
