@@ -1370,7 +1370,7 @@
 [ -f 'spamhaus_edrop.netset' ] && /usr/bin/touch --date=@1500921637 'spamhaus_edrop.netset'
 [ -f 'sslbl.ipset' ] && /usr/bin/touch --date=@1502369107 'sslbl.ipset'
 [ -f 'sslbl_aggressive.ipset' ] && /usr/bin/touch --date=@1502369155 'sslbl_aggressive.ipset'
-[ -f 'sslproxies.ipset' ] && /usr/bin/touch --date=@1502368922 'sslproxies.ipset'
+[ -f 'sslproxies.ipset' ] && /usr/bin/touch --date=@1502369522 'sslproxies.ipset'
 [ -f 'sslproxies_1d.ipset' ] && /usr/bin/touch --date=@1502367722 'sslproxies_1d.ipset'
 [ -f 'sslproxies_30d.ipset' ] && /usr/bin/touch --date=@1502367722 'sslproxies_30d.ipset'
 [ -f 'sslproxies_7d.ipset' ] && /usr/bin/touch --date=@1502368922 'sslproxies_7d.ipset'
