@@ -20,20 +20,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 37840,
-		"common": 39
+		"ips": 37582,
+		"common": 40
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 391,
+		"ips": 385,
 		"common": 33
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 21870,
+		"ips": 21690,
 		"common": 6
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 13512,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -44,7 +50,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19510,
+		"ips": 19569,
 		"common": 47
 	},
 	{
@@ -212,8 +218,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46605,
-		"common": 39
+		"ips": 46346,
+		"common": 40
 	},
 	{
 		"name": "firehol_level3",
@@ -224,7 +230,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9492711,
+		"ips": 9492768,
 		"common": 209
 	},
 	{
@@ -698,25 +704,25 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 55,
-		"common": 43
+		"ips": 52,
+		"common": 31
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
 		"ips": 129,
-		"common": 57
+		"common": 58
 	},
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 476,
+		"ips": 475,
 		"common": 95
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 312,
+		"ips": 313,
 		"common": 89
 	}
 ]
