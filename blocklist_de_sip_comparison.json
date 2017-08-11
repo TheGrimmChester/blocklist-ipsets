@@ -38,14 +38,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 37135,
-		"common": 100
-	},
-	{
-		"name": "bruteforceblocker",
-		"category": "attacks",
-		"ips": 1138,
-		"common": 1
+		"ips": 37090,
+		"common": 94
 	},
 	{
 		"name": "ciarmy",
@@ -99,13 +93,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 16878,
-		"common": 6
+		"common": 3
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 15082,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "dragon_http",
@@ -132,12 +126,6 @@
 		"common": 1
 	},
 	{
-		"name": "et_compromised",
-		"category": "attacks",
-		"ips": 1142,
-		"common": 1
-	},
-	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 271639,
@@ -146,20 +134,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44938,
-		"common": 100
+		"ips": 44894,
+		"common": 94
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132396,
-		"common": 10
+		"ips": 132398,
+		"common": 9
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9484893,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "firehol_webserver",
@@ -177,13 +165,13 @@
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 22191,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656154275,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -273,7 +261,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 6
+		"common": 4
 	},
 	{
 		"name": "sorbs_web",
@@ -303,7 +291,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27252,
-		"common": 12
+		"common": 10
 	},
 	{
 		"name": "urandomusto_unspecified",
@@ -315,6 +303,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30518,
-		"common": 50
+		"common": 49
 	}
 ]
