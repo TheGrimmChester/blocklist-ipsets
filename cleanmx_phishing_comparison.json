@@ -62,7 +62,7 @@
 	{
 		"name": "bambenek_tinba",
 		"category": "malware",
-		"ips": 2,
+		"ips": 3,
 		"common": 1
 	},
 	{
@@ -92,19 +92,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 37866,
+		"ips": 37915,
 		"common": 10
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 22089,
+		"common": 9
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13358,
+		"ips": 13372,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19389,
+		"ips": 19403,
 		"common": 33
 	},
 	{
@@ -434,7 +440,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46888,
+		"ips": 46936,
 		"common": 12
 	},
 	{
@@ -554,8 +560,8 @@
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
-		"ips": 30176,
-		"common": 1451
+		"ips": 30320,
+		"common": 1461
 	},
 	{
 		"name": "hphosts_wrz",

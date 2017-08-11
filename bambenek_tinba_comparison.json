@@ -9,7 +9,7 @@
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 30542,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "cleanmx_phishing",
@@ -33,7 +33,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739445,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "hphosts_ats",
@@ -45,7 +45,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26629,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "hphosts_exp",
@@ -75,18 +75,24 @@
 		"name": "hphosts_pha",
 		"category": "reputation",
 		"ips": 1721,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
-		"ips": 30176,
+		"ips": 30320,
 		"common": 1
 	},
 	{
 		"name": "hphosts_wrz",
 		"category": "reputation",
 		"ips": 818,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762682688,
 		"common": 1
 	},
 	{
@@ -99,13 +105,13 @@
 		"name": "iblocklist_yoyo_adservers",
 		"category": "organizations",
 		"ips": 11795,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "jigsaw_malware",
@@ -120,6 +126,12 @@
 		"common": 1
 	},
 	{
+		"name": "taichung",
+		"category": "attacks",
+		"ips": 12338,
+		"common": 1
+	},
+	{
 		"name": "threatcrowd",
 		"category": "malware",
 		"ips": 6383,
@@ -129,6 +141,6 @@
 		"name": "yoyo_adservers",
 		"category": "organizations",
 		"ips": 12403,
-		"common": 1
+		"common": 2
 	}
 ]
