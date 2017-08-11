@@ -26,8 +26,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 282,
-		"common": 59
+		"ips": 286,
+		"common": 58
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -68,43 +68,43 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36738,
+		"ips": 36760,
 		"common": 250
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9518,
+		"ips": 9514,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 393,
+		"ips": 392,
 		"common": 155
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 1011,
+		"ips": 1008,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 714,
+		"ips": 712,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 22015,
+		"ips": 21933,
 		"common": 89
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 12240,
+		"ips": 12352,
 		"common": 3
 	},
 	{
@@ -116,8 +116,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 18321,
-		"common": 169
+		"ips": 18249,
+		"common": 173
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -332,7 +332,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 312349,
+		"ips": 312347,
 		"common": 23
 	},
 	{
@@ -446,26 +446,26 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652527581,
+		"ips": 652527582,
 		"common": 115
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45491,
+		"ips": 45512,
 		"common": 271
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132392,
+		"ips": 132393,
 		"common": 598
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9483361,
-		"common": 1632
+		"ips": 9483293,
+		"common": 1635
 	},
 	{
 		"name": "firehol_proxies",
@@ -476,7 +476,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34125,
+		"ips": 34126,
 		"common": 138
 	},
 	{
@@ -758,7 +758,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 11480,
+		"ips": 11504,
 		"common": 23
 	},
 	{
@@ -1130,7 +1130,7 @@
 	{
 		"name": "sslbl_aggressive",
 		"category": "malware",
-		"ips": 2949,
+		"ips": 2950,
 		"common": 3
 	},
 	{
@@ -1256,8 +1256,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 242,
-		"common": 8
+		"ips": 252,
+		"common": 7
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 116,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
