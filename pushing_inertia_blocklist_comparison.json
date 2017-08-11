@@ -122,8 +122,8 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 117,
-		"common": 25
+		"ips": 119,
+		"common": 27
 	},
 	{
 		"name": "bambenek_c2",
@@ -150,10 +150,16 @@
 		"common": 28
 	},
 	{
+		"name": "bambenek_ranbyus",
+		"category": "malware",
+		"ips": 1,
+		"common": 1
+	},
+	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 120,
-		"common": 31
+		"ips": 124,
+		"common": 34
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -338,8 +344,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19403,
-		"common": 1226
+		"ips": 19483,
+		"common": 1222
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -734,8 +740,8 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 878,
-		"common": 31
+		"ips": 883,
+		"common": 35
 	},
 	{
 		"name": "dyndns_ponmocup",
@@ -938,14 +944,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 131784,
-		"common": 19764
+		"ips": 131789,
+		"common": 19768
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9484404,
-		"common": 50281
+		"ips": 9484483,
+		"common": 50277
 	},
 	{
 		"name": "firehol_proxies",
@@ -1346,8 +1352,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37290,
-		"common": 203
+		"ips": 37220,
+		"common": 209
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1400,14 +1406,14 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 214,
+		"ips": 215,
 		"common": 21
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2450,
-		"common": 173
+		"ips": 2414,
+		"common": 169
 	},
 	{
 		"name": "php_commenters",
@@ -1704,15 +1710,9 @@
 		"common": 279
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 1
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2583,
+		"ips": 2595,
 		"common": 44
 	},
 	{
@@ -1724,7 +1724,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4831,
+		"ips": 4829,
 		"common": 79
 	},
 	{
