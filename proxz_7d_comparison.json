@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 18882,
+		"ips": 18901,
 		"common": 42
 	},
 	{
@@ -128,61 +128,61 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2706,
-		"common": 30
+		"ips": 2728,
+		"common": 27
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 28987,
-		"common": 435
+		"ips": 29142,
+		"common": 440
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 123091,
+		"ips": 123108,
 		"common": 738
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 62665,
+		"ips": 62678,
 		"common": 677
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 20306,
+		"ips": 20316,
 		"common": 75
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4286,
+		"ips": 4302,
 		"common": 28
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 30
+		"common": 27
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 33374,
-		"common": 445
+		"ips": 33575,
+		"common": 450
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 162334,
+		"ips": 162322,
 		"common": 753
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 80200,
+		"ips": 80230,
 		"common": 690
 	},
 	{
@@ -248,13 +248,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 35590,
-		"common": 485
+		"ips": 35785,
+		"common": 490
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 271466,
+		"ips": 271484,
 		"common": 763
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9483908,
+		"ips": 9483926,
 		"common": 293
 	},
 	{
@@ -854,14 +854,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 235,
+		"ips": 236,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 213,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 58,
-		"common": 2
+		"ips": 111,
+		"common": 1
 	},
 	{
 		"name": "xroxy",
