@@ -200,37 +200,37 @@
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 8559,
+		"ips": 8558,
 		"common": 23
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 4936,
+		"ips": 4935,
 		"common": 16
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7137,
+		"ips": 7147,
 		"common": 23
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 8976,
+		"ips": 8964,
 		"common": 28
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28429,
+		"ips": 28427,
 		"common": 34
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14387,
+		"ips": 14391,
 		"common": 31
 	},
 	{
@@ -296,7 +296,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19410,
+		"ips": 19417,
 		"common": 49
 	},
 	{
@@ -518,13 +518,13 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 416,
+		"ips": 417,
 		"common": 28
 	},
 	{
 		"name": "dataplane_dnsversion",
 		"category": "attacks",
-		"ips": 226,
+		"ips": 227,
 		"common": 16
 	},
 	{
@@ -644,8 +644,8 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 880,
-		"common": 5
+		"ips": 830,
+		"common": 2
 	},
 	{
 		"name": "dyndns_ponmocup",
@@ -806,13 +806,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36337,
+		"ips": 36384,
 		"common": 114
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 271396,
+		"ips": 271431,
 		"common": 256
 	},
 	{
@@ -836,13 +836,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132130,
-		"common": 668
+		"ips": 132342,
+		"common": 666
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9484418,
+		"ips": 9484425,
 		"common": 1389
 	},
 	{
@@ -1268,7 +1268,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 12171,
+		"ips": 12206,
 		"common": 7
 	},
 	{
@@ -1320,9 +1320,27 @@
 		"common": 18
 	},
 	{
+		"name": "php_dictionary",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_dictionary_1d",
+		"category": "spam",
+		"ips": 99,
+		"common": 1
+	},
+	{
 		"name": "php_dictionary_30d",
 		"category": "spam",
-		"ips": 1017,
+		"ips": 1051,
+		"common": 1
+	},
+	{
+		"name": "php_dictionary_7d",
+		"category": "spam",
+		"ips": 356,
 		"common": 1
 	},
 	{
@@ -1352,7 +1370,7 @@
 	{
 		"name": "php_spammers_30d",
 		"category": "spam",
-		"ips": 1046,
+		"ips": 1081,
 		"common": 1
 	},
 	{
@@ -1556,8 +1574,8 @@
 	{
 		"name": "stopforumspam_30d",
 		"category": "abuse",
-		"ips": 59385,
-		"common": 127
+		"ips": 58733,
+		"common": 129
 	},
 	{
 		"name": "stopforumspam_365d",
@@ -1574,8 +1592,8 @@
 	{
 		"name": "stopforumspam_90d",
 		"category": "abuse",
-		"ips": 155262,
-		"common": 181
+		"ips": 154469,
+		"common": 182
 	},
 	{
 		"name": "stopforumspam_toxic",
