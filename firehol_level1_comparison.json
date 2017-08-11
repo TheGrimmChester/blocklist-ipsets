@@ -470,7 +470,7 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 417,
+		"ips": 418,
 		"common": 152
 	},
 	{
@@ -488,7 +488,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 424,
+		"ips": 425,
 		"common": 50
 	},
 	{
@@ -770,7 +770,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38758,
+		"ips": 38753,
 		"common": 29
 	},
 	{
@@ -794,20 +794,20 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26215,
+		"ips": 26210,
 		"common": 22
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34124,
-		"common": 657
+		"ips": 34122,
+		"common": 659
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739572,
-		"common": 17851
+		"common": 17853
 	},
 	{
 		"name": "fullbogons",
@@ -855,7 +855,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26629,
-		"common": 412
+		"common": 414
 	},
 	{
 		"name": "hphosts_exp",
@@ -939,7 +939,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 655890595,
-		"common": 589968416
+		"common": 589968417
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -963,7 +963,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227915504,
-		"common": 504915
+		"common": 504916
 	},
 	{
 		"name": "iblocklist_exclusions",
@@ -1053,7 +1053,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762682688,
-		"common": 3634721
+		"common": 3634722
 	},
 	{
 		"name": "iblocklist_level2",
@@ -1172,8 +1172,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 12206,
-		"common": 1
+		"ips": 12236,
+		"common": 2
 	},
 	{
 		"name": "nt_malware_http",
@@ -1293,13 +1293,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 14201
+		"common": 14202
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 5011,
-		"common": 308
+		"common": 311
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -1308,16 +1308,22 @@
 		"common": 253
 	},
 	{
+		"name": "ransomware_locky_ps",
+		"category": "malware",
+		"ips": 3,
+		"common": 2
+	},
+	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 143,
-		"common": 2
+		"ips": 141,
+		"common": 4
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 317,
-		"common": 317
+		"ips": 319,
+		"common": 319
 	},
 	{
 		"name": "ransomware_torrentlocker_c2",
@@ -1394,19 +1400,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2598,
+		"ips": 2600,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8997,
+		"ips": 8990,
 		"common": 4
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4840,
+		"ips": 4839,
 		"common": 3
 	},
 	{
@@ -1544,7 +1550,7 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 880,
+		"ips": 878,
 		"common": 3
 	},
 	{
@@ -1556,13 +1562,13 @@
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 1917,
+		"ips": 1915,
 		"common": 4
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1155,
+		"ips": 1153,
 		"common": 3
 	},
 	{

@@ -452,13 +452,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38758,
+		"ips": 38753,
 		"common": 987
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652527592,
+		"ips": 652527594,
 		"common": 35
 	},
 	{
@@ -482,13 +482,13 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26215,
+		"ips": 26210,
 		"common": 978
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34124,
+		"ips": 34122,
 		"common": 18
 	},
 	{
@@ -818,8 +818,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 12206,
-		"common": 259
+		"ips": 12236,
+		"common": 265
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1080,21 +1080,27 @@
 		"common": 9
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 4
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2598,
+		"ips": 2600,
 		"common": 115
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8997,
+		"ips": 8990,
 		"common": 507
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4840,
+		"ips": 4839,
 		"common": 331
 	},
 	{
@@ -1155,24 +1161,24 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 407,
+		"ips": 408,
 		"common": 8
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 4107,
+		"ips": 4108,
 		"common": 43
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1367,
+		"ips": 1362,
 		"common": 15
 	},
 	{
@@ -1244,7 +1250,7 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 880,
+		"ips": 878,
 		"common": 6
 	},
 	{
@@ -1256,13 +1262,13 @@
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 1917,
+		"ips": 1915,
 		"common": 7
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1155,
+		"ips": 1153,
 		"common": 7
 	},
 	{
