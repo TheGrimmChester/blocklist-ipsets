@@ -68,13 +68,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 37915,
+		"ips": 38028,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9562,
+		"ips": 9566,
 		"common": 2
 	},
 	{
@@ -110,7 +110,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 17660,
+		"ips": 17802,
 		"common": 4
 	},
 	{
@@ -176,19 +176,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46936,
+		"ips": 47047,
 		"common": 14
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 131789,
+		"ips": 131808,
 		"common": 32
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9484483,
+		"ips": 9484523,
 		"common": 1
 	},
 	{
@@ -306,10 +306,22 @@
 		"common": 24
 	},
 	{
+		"name": "urandomusto_ftp",
+		"category": "attacks",
+		"ips": 81,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 134,
+		"ips": 135,
 		"common": 10
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 434,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
