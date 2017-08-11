@@ -8,14 +8,14 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 112,
+		"ips": 116,
 		"common": 13
 	},
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 383,
-		"common": 126
+		"common": 125
 	},
 	{
 		"name": "bambenek_dircrypt",
@@ -34,6 +34,12 @@
 		"category": "malware",
 		"ips": 37,
 		"common": 3
+	},
+	{
+		"name": "bambenek_ranbyus",
+		"category": "malware",
+		"ips": 1,
+		"common": 1
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -129,37 +135,37 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652527579,
-		"common": 126
+		"common": 125
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45278,
+		"ips": 45275,
 		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132363,
+		"ips": 132362,
 		"common": 1
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9483884,
+		"ips": 9483882,
 		"common": 25
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34122,
+		"ips": 34124,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739572,
-		"common": 124
+		"common": 127
 	},
 	{
 		"name": "gofferje_sip",
@@ -177,7 +183,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26629,
-		"common": 122
+		"common": 125
 	},
 	{
 		"name": "hphosts_exp",
@@ -189,7 +195,7 @@
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 26481,
-		"common": 53
+		"common": 54
 	},
 	{
 		"name": "hphosts_grm",
@@ -225,7 +231,7 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 30176,
-		"common": 50
+		"common": 49
 	},
 	{
 		"name": "hphosts_wrz",
@@ -291,7 +297,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 35
+		"common": 36
 	},
 	{
 		"name": "ransomware_feed",
