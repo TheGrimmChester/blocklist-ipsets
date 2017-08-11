@@ -44,14 +44,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 16387,
+		"ips": 16426,
 		"common": 1
 	},
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
 		"ips": 422,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "dshield_30d",
@@ -66,10 +66,28 @@
 		"common": 2
 	},
 	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 45432,
+		"common": 1
+	},
+	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132378,
 		"common": 4
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34739572,
+		"common": 1
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 2510,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -105,7 +123,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 138940759,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -117,24 +135,30 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3636,
-		"common": 3
+		"common": 4
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512264,
+		"common": 1
 	},
 	{
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 12295,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27252,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 31,
+		"ips": 34,
 		"common": 1
 	},
 	{
