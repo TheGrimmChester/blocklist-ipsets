@@ -14,7 +14,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 300,
+		"ips": 303,
 		"common": 1
 	},
 	{
@@ -98,7 +98,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19843,
+		"ips": 19750,
 		"common": 181
 	},
 	{
@@ -356,7 +356,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9484822,
+		"ips": 9484733,
 		"common": 763
 	},
 	{
@@ -410,7 +410,7 @@
 	{
 		"name": "hphosts_fsa",
 		"category": "reputation",
-		"ips": 26481,
+		"ips": 26526,
 		"common": 1
 	},
 	{
@@ -1028,8 +1028,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 255,
-		"common": 5
+		"ips": 264,
+		"common": 4
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 173,
+		"common": 2
 	},
 	{
 		"name": "xroxy",

@@ -20,7 +20,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 300,
+		"ips": 303,
 		"common": 6
 	},
 	{
@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19843,
+		"ips": 19750,
 		"common": 58
 	},
 	{
@@ -434,7 +434,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9484822,
+		"ips": 9484733,
 		"common": 289
 	},
 	{
@@ -446,7 +446,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34127,
+		"ips": 34128,
 		"common": 2
 	},
 	{
@@ -894,16 +894,22 @@
 		"common": 404
 	},
 	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 264,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 128,
+		"ips": 133,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 201,
-		"common": 17
+		"ips": 171,
+		"common": 14
 	},
 	{
 		"name": "urandomusto_telnet",
