@@ -116,7 +116,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 18421,
+		"ips": 18435,
 		"common": 97
 	},
 	{
@@ -416,7 +416,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38727,
+		"ips": 38726,
 		"common": 37
 	},
 	{
@@ -440,13 +440,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9483454,
+		"ips": 9483468,
 		"common": 276
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26233,
+		"ips": 26232,
 		"common": 15
 	},
 	{
@@ -986,14 +986,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 236,
-		"common": 8
+		"ips": 166,
+		"common": 7
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 213,
-		"common": 37
+		"ips": 231,
+		"common": 34
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 138,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_ntp",
