@@ -1410,7 +1410,7 @@
 [ -f 'vxvault.ipset' ] && /usr/bin/touch --date=@1501775314 'vxvault.ipset'
 [ -f 'xforce_bccs.ipset' ] && /usr/bin/touch --date=@1498747475 'xforce_bccs.ipset'
 [ -f 'xroxy.ipset' ] && /usr/bin/touch --date=@1502407982 'xroxy.ipset'
-[ -f 'xroxy_1d.ipset' ] && /usr/bin/touch --date=@1502407982 'xroxy_1d.ipset'
+[ -f 'xroxy_1d.ipset' ] && /usr/bin/touch --date=@1502411582 'xroxy_1d.ipset'
 [ -f 'xroxy_30d.ipset' ] && /usr/bin/touch --date=@1502400781 'xroxy_30d.ipset'
 [ -f 'xroxy_7d.ipset' ] && /usr/bin/touch --date=@1502407982 'xroxy_7d.ipset'
 [ -f 'yoyo_adservers.ipset' ] && /usr/bin/touch --date=@1501844885 'yoyo_adservers.ipset'
