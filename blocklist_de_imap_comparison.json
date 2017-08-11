@@ -62,14 +62,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36520,
-		"common": 2045
+		"ips": 36556,
+		"common": 2051
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 22055,
-		"common": 2046
+		"ips": 22043,
+		"common": 2051
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -104,7 +104,7 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15099,
+		"ips": 15097,
 		"common": 1
 	},
 	{
@@ -162,6 +162,12 @@
 		"common": 6
 	},
 	{
+		"name": "cta_cryptowall",
+		"category": "malware",
+		"ips": 1360,
+		"common": 1
+	},
+	{
 		"name": "cybercrime",
 		"category": "malware",
 		"ips": 30417,
@@ -200,7 +206,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 423,
+		"ips": 422,
 		"common": 1
 	},
 	{
@@ -296,7 +302,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36605,
+		"ips": 36611,
 		"common": 2
 	},
 	{
@@ -308,7 +314,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38751,
+		"ips": 38758,
 		"common": 3
 	},
 	{
@@ -320,8 +326,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45283,
-		"common": 2045
+		"ips": 45316,
+		"common": 2051
 	},
 	{
 		"name": "firehol_level3",
@@ -332,7 +338,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9483362,
+		"ips": 9483370,
 		"common": 15
 	},
 	{
@@ -351,7 +357,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739572,
-		"common": 112
+		"common": 113
 	},
 	{
 		"name": "gofferje_sip",
@@ -368,8 +374,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2527,
-		"common": 70
+		"ips": 2521,
+		"common": 72
 	},
 	{
 		"name": "haley_ssh",
@@ -393,13 +399,13 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 30176,
-		"common": 2
+		"common": 4
 	},
 	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656154275,
-		"common": 82
+		"common": 81
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -453,19 +459,19 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762682688,
-		"common": 33
+		"common": 32
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346612497,
-		"common": 103
+		"common": 106
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 138940759,
-		"common": 66
+		"common": 65
 	},
 	{
 		"name": "iblocklist_org_apple",
@@ -530,8 +536,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 11376,
-		"common": 37
+		"ips": 11400,
+		"common": 36
 	},
 	{
 		"name": "nullsecure",
@@ -549,13 +555,13 @@
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2485,
-		"common": 19
+		"common": 20
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 102
+		"common": 101
 	},
 	{
 		"name": "ransomware_feed",
@@ -579,7 +585,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 137
+		"common": 138
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -591,7 +597,7 @@
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 22951270,
-		"common": 16
+		"common": 15
 	},
 	{
 		"name": "sorbs_recent_spam",
@@ -644,7 +650,7 @@
 	{
 		"name": "stopforumspam_7d",
 		"category": "abuse",
-		"ips": 16968,
+		"ips": 17090,
 		"common": 2
 	},
 	{
@@ -687,7 +693,7 @@
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 122,
-		"common": 18
+		"common": 19
 	},
 	{
 		"name": "urandomusto_rdp",
