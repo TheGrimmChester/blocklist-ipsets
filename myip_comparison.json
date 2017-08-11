@@ -104,7 +104,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19595,
+		"ips": 19557,
 		"common": 49
 	},
 	{
@@ -152,49 +152,49 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2559,
+		"ips": 2555,
 		"common": 66
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 29803,
+		"ips": 29957,
 		"common": 795
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 122987,
+		"ips": 122988,
 		"common": 1493
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 62466,
+		"ips": 62484,
 		"common": 1371
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 598,
+		"ips": 595,
 		"common": 14
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1388,
+		"ips": 1393,
 		"common": 33
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 20406,
+		"ips": 20408,
 		"common": 326
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4511,
+		"ips": 4509,
 		"common": 145
 	},
 	{
@@ -206,19 +206,19 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 34437,
-		"common": 910
+		"ips": 34644,
+		"common": 912
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 162139,
+		"ips": 162152,
 		"common": 1711
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 79733,
+		"ips": 79786,
 		"common": 1549
 	},
 	{
@@ -338,13 +338,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37709,
-		"common": 964
+		"ips": 37893,
+		"common": 962
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 271532,
+		"ips": 271539,
 		"common": 1727
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9484613,
+		"ips": 9484571,
 		"common": 439
 	},
 	{
@@ -1064,8 +1064,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 247,
-		"common": 3
+		"ips": 204,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 64,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
