@@ -60,9 +60,15 @@
 		"common": 12
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 37433,
+		"common": 6
+	},
+	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9447,
+		"ips": 9448,
 		"common": 1
 	},
 	{
@@ -80,19 +86,19 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2040,
+		"ips": 2046,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 21875,
+		"ips": 21886,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13132,
+		"ips": 13151,
 		"common": 2
 	},
 	{
@@ -156,40 +162,52 @@
 		"common": 23
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2611,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 29894,
-		"common": 3
+		"ips": 29911,
+		"common": 4
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 123112,
-		"common": 22
+		"ips": 123138,
+		"common": 23
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 62334,
-		"common": 9
+		"ips": 62368,
+		"common": 10
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 34437,
-		"common": 3
+		"ips": 34438,
+		"common": 4
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 162289,
-		"common": 22
+		"ips": 162331,
+		"common": 23
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 79601,
-		"common": 9
+		"ips": 79647,
+		"common": 10
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -272,14 +290,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37202,
-		"common": 3
+		"ips": 37204,
+		"common": 4
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 271682,
-		"common": 49
+		"ips": 271712,
+		"common": 50
 	},
 	{
 		"name": "firehol_anonymous",
@@ -452,13 +470,13 @@
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 5196,
+		"ips": 5225,
 		"common": 1
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1741,
+		"ips": 1768,
 		"common": 1
 	},
 	{
