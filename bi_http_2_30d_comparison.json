@@ -146,26 +146,50 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2606,
-		"common": 2
+		"ips": 2600,
+		"common": 3
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 30060,
-		"common": 10
+		"ips": 30033,
+		"common": 11
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 122899,
-		"common": 34
+		"ips": 122910,
+		"common": 35
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 62489,
-		"common": 23
+		"ips": 62496,
+		"common": 24
+	},
+	{
+		"name": "cleantalk_new",
+		"category": "abuse",
+		"ips": 653,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_new_1d",
+		"category": "abuse",
+		"ips": 1507,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_new_30d",
+		"category": "abuse",
+		"ips": 20458,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_new_7d",
+		"category": "abuse",
+		"ips": 4581,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated",
@@ -176,19 +200,19 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 34516,
+		"ips": 34508,
 		"common": 13
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 162052,
+		"ips": 162068,
 		"common": 47
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 79763,
+		"ips": 79755,
 		"common": 29
 	},
 	{
@@ -314,13 +338,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36680,
+		"ips": 36644,
 		"common": 45
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 271538,
+		"ips": 271553,
 		"common": 61
 	},
 	{
@@ -734,19 +758,25 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 155,
-		"common": 1
+		"ips": 146,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 98,
+		"ips": 123,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 71,
+		"ips": 73,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_unspecified",
+		"category": "attacks",
+		"ips": 133,
 		"common": 1
 	},
 	{
