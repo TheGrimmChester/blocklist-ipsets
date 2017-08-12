@@ -8,7 +8,7 @@
 	{
 		"name": "cidr_report_bogons",
 		"category": "unrouteable",
-		"ips": 601216200,
+		"ips": 601200840,
 		"common": 1
 	},
 	{
@@ -44,8 +44,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652503006,
-		"common": 100
+		"ips": 652503011,
+		"common": 101
 	},
 	{
 		"name": "firehol_level3",
@@ -56,7 +56,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 8861348,
+		"ips": 8861341,
 		"common": 3
 	},
 	{
@@ -69,13 +69,13 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739445,
-		"common": 23
+		"common": 24
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095981,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "hphosts_emd",
@@ -120,6 +120,12 @@
 		"common": 2
 	},
 	{
+		"name": "iblocklist_rangetest",
+		"category": "reputation",
+		"ips": 4126376,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_spyware",
 		"category": "reputation",
 		"ips": 339013,
@@ -135,7 +141,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 18
+		"common": 19
 	},
 	{
 		"name": "spamhaus_edrop",
