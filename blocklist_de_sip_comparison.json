@@ -12,6 +12,12 @@
 		"common": 1
 	},
 	{
+		"name": "bds_atif",
+		"category": "reputation",
+		"ips": 2815,
+		"common": 1
+	},
+	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 2907,
@@ -39,12 +45,12 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 36970,
-		"common": 101
+		"common": 103
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 174,
+		"ips": 173,
 		"common": 1
 	},
 	{
@@ -98,14 +104,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 18643,
-		"common": 8
+		"ips": 18678,
+		"common": 10
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 16837,
-		"common": 6
+		"ips": 16867,
+		"common": 8
 	},
 	{
 		"name": "dragon_http",
@@ -147,18 +153,18 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 46392,
-		"common": 101
+		"common": 103
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132325,
+		"ips": 132337,
 		"common": 10
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 8861305,
+		"ips": 8861306,
 		"common": 8
 	},
 	{
@@ -231,13 +237,13 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762690791,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346611555,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "iblocklist_level3",
@@ -334,6 +340,12 @@
 		"category": "reputation",
 		"ips": 27252,
 		"common": 10
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 232,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",

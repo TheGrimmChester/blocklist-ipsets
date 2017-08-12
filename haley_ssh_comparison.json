@@ -170,37 +170,37 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9551,
+		"ips": 9540,
 		"common": 16
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 1062,
+		"ips": 1060,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 557,
+		"ips": 556,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2246,
-		"common": 7
+		"ips": 2248,
+		"common": 6
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20945,
+		"ips": 21004,
 		"common": 22
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 141,
+		"ips": 143,
 		"common": 4
 	},
 	{
@@ -212,14 +212,14 @@
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 174,
-		"common": 70
+		"ips": 173,
+		"common": 69
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19240,
-		"common": 170
+		"ips": 19243,
+		"common": 171
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -410,13 +410,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 18643,
+		"ips": 18678,
 		"common": 1111
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 16837,
+		"ips": 16867,
 		"common": 960
 	},
 	{
@@ -494,7 +494,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 132296,
+		"ips": 132302,
 		"common": 205
 	},
 	{
@@ -584,7 +584,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36636,
+		"ips": 36701,
 		"common": 88
 	},
 	{
@@ -614,13 +614,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132325,
+		"ips": 132337,
 		"common": 672
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 8861305,
+		"ips": 8861306,
 		"common": 22254
 	},
 	{
@@ -1298,7 +1298,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4680,
+		"ips": 4778,
 		"common": 66
 	},
 	{
@@ -1340,7 +1340,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 8927,
+		"ips": 8932,
 		"common": 67
 	},
 	{
@@ -1400,8 +1400,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 257,
-		"common": 4
+		"ips": 232,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 138,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
