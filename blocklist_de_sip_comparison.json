@@ -44,19 +44,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36897,
-		"common": 108
+		"ips": 37001,
+		"common": 109
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 172,
+		"ips": 174,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19360,
+		"ips": 19337,
+		"common": 1
+	},
+	{
+		"name": "bruteforceblocker",
+		"category": "attacks",
+		"ips": 1170,
 		"common": 1
 	},
 	{
@@ -68,13 +74,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 122786,
+		"ips": 122785,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 162032,
+		"ips": 162033,
 		"common": 2
 	},
 	{
@@ -111,13 +117,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 18762,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 16954,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "dragon_http",
@@ -144,9 +150,15 @@
 		"common": 1
 	},
 	{
+		"name": "et_compromised",
+		"category": "attacks",
+		"ips": 1133,
+		"common": 1
+	},
+	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 271487,
+		"ips": 271491,
 		"common": 2
 	},
 	{
@@ -158,25 +170,25 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45509,
-		"common": 107
+		"ips": 45521,
+		"common": 109
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132335,
-		"common": 9
+		"ips": 132345,
+		"common": 10
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 8861447,
+		"ips": 8861423,
 		"common": 9
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34739445,
+		"ips": 34739845,
 		"common": 33
 	},
 	{
@@ -243,7 +255,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346611555,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "iblocklist_level3",
@@ -291,7 +303,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3416,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "pushing_inertia_blocklist",
