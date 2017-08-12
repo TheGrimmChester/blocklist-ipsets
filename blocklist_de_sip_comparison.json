@@ -15,7 +15,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 2815,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36855,
+		"ips": 36945,
 		"common": 109
 	},
 	{
@@ -56,13 +56,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19272,
-		"common": 1
-	},
-	{
-		"name": "bruteforceblocker",
-		"category": "attacks",
-		"ips": 1170,
+		"ips": 19263,
 		"common": 1
 	},
 	{
@@ -104,7 +98,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 433,
+		"ips": 432,
 		"common": 10
 	},
 	{
@@ -117,13 +111,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 18762,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 16954,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "dragon_http",
@@ -150,12 +144,6 @@
 		"common": 1
 	},
 	{
-		"name": "et_compromised",
-		"category": "attacks",
-		"ips": 1133,
-		"common": 1
-	},
-	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 271489,
@@ -170,19 +158,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45373,
+		"ips": 45461,
 		"common": 109
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132345,
-		"common": 10
+		"ips": 133082,
+		"common": 9
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 8861355,
+		"ips": 8861351,
 		"common": 9
 	},
 	{
@@ -200,7 +188,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 22254,
+		"ips": 22266,
 		"common": 4
 	},
 	{
@@ -255,13 +243,13 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346611555,
-		"common": 17
+		"common": 16
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139018559,
-		"common": 22
+		"common": 21
 	},
 	{
 		"name": "iblocklist_org_blizzard",
@@ -369,6 +357,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30545,
-		"common": 53
+		"common": 54
 	}
 ]

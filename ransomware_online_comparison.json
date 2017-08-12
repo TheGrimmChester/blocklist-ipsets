@@ -14,19 +14,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36855,
+		"ips": 36945,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20990,
+		"ips": 21024,
 		"common": 2
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19272,
+		"ips": 19263,
 		"common": 3
 	},
 	{
@@ -123,37 +123,37 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652503008,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45373,
+		"ips": 45461,
 		"common": 2
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132345,
+		"ips": 133082,
 		"common": 3
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 8861355,
+		"ips": 8861351,
 		"common": 13
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34133,
-		"common": 140
+		"ips": 34136,
+		"common": 142
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739845,
-		"common": 116
+		"common": 117
 	},
 	{
 		"name": "hphosts_ats",
@@ -165,7 +165,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26604,
-		"common": 114
+		"common": 115
 	},
 	{
 		"name": "hphosts_fsa",
@@ -207,13 +207,13 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227980328,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762690791,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "iblocklist_level2",
@@ -260,7 +260,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 19006,
+		"ips": 18950,
 		"common": 1
 	},
 	{
@@ -273,19 +273,25 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 5009,
-		"common": 140
+		"common": 142
+	},
+	{
+		"name": "ransomware_locky_ps",
+		"category": "malware",
+		"ips": 3,
+		"common": 2
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
 		"ips": 324,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "sorbs_dul",
@@ -314,7 +320,7 @@
 	{
 		"name": "sslbl_aggressive",
 		"category": "malware",
-		"ips": 2957,
+		"ips": 2958,
 		"common": 1
 	},
 	{

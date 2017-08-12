@@ -32,13 +32,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36855,
+		"ips": 36945,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13551,
+		"ips": 13608,
 		"common": 1
 	},
 	{
@@ -93,7 +93,7 @@
 		"name": "bruteforceblocker",
 		"category": "attacks",
 		"ips": 1170,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -165,13 +165,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 18762,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 16954,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dm_tor",
@@ -387,7 +387,7 @@
 		"name": "et_compromised",
 		"category": "attacks",
 		"ips": 1133,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "et_spamhaus",
@@ -422,7 +422,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38687,
+		"ips": 38686,
 		"common": 3
 	},
 	{
@@ -434,32 +434,32 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45373,
+		"ips": 45461,
 		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132345,
-		"common": 2957
+		"ips": 133082,
+		"common": 2958
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 8861355,
+		"ips": 8861351,
 		"common": 41
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26222,
+		"ips": 26221,
 		"common": 2
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34133,
-		"common": 2957
+		"ips": 34136,
+		"common": 2958
 	},
 	{
 		"name": "firehol_webserver",
@@ -482,7 +482,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 22254,
+		"ips": 22266,
 		"common": 4
 	},
 	{
@@ -531,7 +531,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656139939,
-		"common": 188
+		"common": 189
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -734,7 +734,7 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 140,
+		"ips": 142,
 		"common": 1
 	},
 	{
@@ -878,7 +878,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 8931,
+		"ips": 9707,
 		"common": 10
 	},
 	{
@@ -890,13 +890,13 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 873,
+		"ips": 877,
 		"common": 2
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 914,
+		"ips": 916,
 		"common": 2
 	},
 	{
@@ -908,7 +908,7 @@
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1151,
+		"ips": 1153,
 		"common": 2
 	},
 	{
