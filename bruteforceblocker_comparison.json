@@ -21,7 +21,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 2624,
-		"common": 139
+		"common": 140
 	},
 	{
 		"name": "bi_any_2_1d",
@@ -51,7 +51,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 37314,
-		"common": 446
+		"common": 448
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -81,7 +81,7 @@
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
 		"ips": 13594,
-		"common": 436
+		"common": 438
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -126,45 +126,57 @@
 		"common": 12
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2595,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 30106,
-		"common": 3
+		"ips": 30084,
+		"common": 4
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 122909,
+		"ips": 122928,
 		"common": 34
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 62487,
+		"ips": 62510,
 		"common": 10
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 20454,
+		"ips": 20458,
 		"common": 4
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 34610,
-		"common": 5
+		"ips": 34570,
+		"common": 6
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 162051,
+		"ips": 162083,
 		"common": 37
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 79750,
+		"ips": 79791,
 		"common": 13
 	},
 	{
@@ -177,19 +189,19 @@
 		"name": "darklist_de",
 		"category": "attacks",
 		"ips": 9613,
-		"common": 29
+		"common": 28
 	},
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 18480,
-		"common": 530
+		"common": 532
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 16660,
-		"common": 410
+		"common": 412
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -231,7 +243,7 @@
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
 		"ips": 51798,
-		"common": 58
+		"common": 60
 	},
 	{
 		"name": "dronebl_worms_bots",
@@ -381,7 +393,7 @@
 		"name": "et_compromised",
 		"category": "attacks",
 		"ips": 1133,
-		"common": 1103
+		"common": 1096
 	},
 	{
 		"name": "et_dshield",
@@ -404,19 +416,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36758,
-		"common": 10
+		"ips": 36736,
+		"common": 11
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 271520,
+		"ips": 271554,
 		"common": 43
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38661,
+		"ips": 38663,
 		"common": 6
 	},
 	{
@@ -429,13 +441,13 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 46702,
-		"common": 448
+		"common": 450
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132283,
-		"common": 1153
+		"ips": 132279,
+		"common": 1149
 	},
 	{
 		"name": "firehol_level4",
@@ -446,7 +458,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26202,
+		"ips": 26204,
 		"common": 2
 	},
 	{
@@ -459,7 +471,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739445,
-		"common": 80
+		"common": 79
 	},
 	{
 		"name": "gofferje_sip",
@@ -519,7 +531,7 @@
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "iblocklist_isp_qwest",
@@ -555,7 +567,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 138956038,
-		"common": 63
+		"common": 62
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -753,7 +765,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 78
+		"common": 77
 	},
 	{
 		"name": "ri_connect_proxies_30d",
@@ -789,7 +801,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 105
+		"common": 104
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -885,7 +897,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 12338,
-		"common": 345
+		"common": 342
 	},
 	{
 		"name": "talosintel_ipfilter",
