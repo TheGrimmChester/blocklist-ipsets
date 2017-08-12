@@ -32,32 +32,32 @@
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 8545,
-		"common": 5378
+		"ips": 8544,
+		"common": 5376
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 3502,
-		"common": 3008
+		"ips": 3498,
+		"common": 3006
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7217,
-		"common": 7217
+		"ips": 7224,
+		"common": 7224
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28586,
-		"common": 8887
+		"ips": 28582,
+		"common": 8888
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14285,
-		"common": 8887
+		"ips": 14288,
+		"common": 8888
 	},
 	{
 		"name": "blocklist_de",
@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19372,
+		"ips": 19410,
 		"common": 1
 	},
 	{
@@ -224,13 +224,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 18480,
+		"ips": 18505,
 		"common": 2
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 16660,
+		"ips": 16686,
 		"common": 2
 	},
 	{
@@ -320,8 +320,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36690,
-		"common": 2
+		"ips": 36732,
+		"common": 3
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -338,7 +338,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652503034,
+		"ips": 652503031,
 		"common": 9
 	},
 	{
@@ -350,13 +350,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132279,
+		"ips": 132280,
 		"common": 22
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 8861481,
+		"ips": 8861518,
 		"common": 34
 	},
 	{
@@ -459,7 +459,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227980328,
-		"common": 235
+		"common": 236
 	},
 	{
 		"name": "iblocklist_fornonlancomputers",
@@ -507,7 +507,7 @@
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 300
+		"common": 299
 	},
 	{
 		"name": "iblocklist_isp_embarq",
@@ -531,13 +531,13 @@
 		"name": "iblocklist_isp_twc",
 		"category": "organizations",
 		"ips": 15015936,
-		"common": 100
+		"common": 101
 	},
 	{
 		"name": "iblocklist_isp_verizon",
 		"category": "organizations",
 		"ips": 18087936,
-		"common": 86
+		"common": 87
 	},
 	{
 		"name": "iblocklist_level1",
@@ -596,7 +596,7 @@
 	{
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
-		"ips": 4244634,
+		"ips": 4126376,
 		"common": 35
 	},
 	{
@@ -693,7 +693,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 1466
+		"common": 1468
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -705,7 +705,7 @@
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 22951270,
-		"common": 129
+		"common": 130
 	},
 	{
 		"name": "sorbs_recent_spam",
@@ -736,6 +736,12 @@
 		"category": "abuse",
 		"ips": 247739,
 		"common": 14
+	},
+	{
+		"name": "stopforumspam_1d",
+		"category": "abuse",
+		"ips": 4073,
+		"common": 1
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -770,7 +776,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 8936,
+		"ips": 8935,
 		"common": 5
 	},
 	{
