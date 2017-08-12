@@ -68,7 +68,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 372,
+		"ips": 370,
 		"common": 1
 	},
 	{
@@ -242,7 +242,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19228,
+		"ips": 19183,
 		"common": 176
 	},
 	{
@@ -294,21 +294,27 @@
 		"common": 182
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 57,
+		"common": 2
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1200,
-		"common": 22
+		"ips": 1206,
+		"common": 23
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14957,
+		"ips": 14962,
 		"common": 137
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4880,
+		"ips": 4883,
 		"common": 57
 	},
 	{
@@ -488,13 +494,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 18762,
-		"common": 281
+		"ips": 18768,
+		"common": 282
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 16954,
+		"ips": 16963,
 		"common": 221
 	},
 	{
@@ -782,8 +788,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36018,
-		"common": 217
+		"ips": 36086,
+		"common": 218
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -800,14 +806,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652503010,
+		"ips": 652503008,
 		"common": 504916
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45380,
-		"common": 390
+		"ips": 45780,
+		"common": 397
 	},
 	{
 		"name": "firehol_level3",
@@ -818,7 +824,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 8861315,
+		"ips": 8861274,
 		"common": 179368
 	},
 	{
@@ -866,8 +872,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1253,
-		"common": 24
+		"ips": 1773,
+		"common": 32
 	},
 	{
 		"name": "haley_ssh",
@@ -1670,8 +1676,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5009,
-		"common": 45
+		"ips": 5112,
+		"common": 46
 	},
 	{
 		"name": "stopforumspam_30d",
