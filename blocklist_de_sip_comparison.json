@@ -42,6 +42,12 @@
 		"common": 100
 	},
 	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 13575,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
 		"ips": 178,
@@ -99,13 +105,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 18587,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 16783,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "dragon_http",
@@ -207,7 +213,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227980328,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "iblocklist_isp_aol",
@@ -243,7 +249,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 138956038,
-		"common": 22
+		"common": 23
 	},
 	{
 		"name": "iblocklist_org_blizzard",
@@ -282,16 +288,10 @@
 		"common": 1
 	},
 	{
-		"name": "lashback_ubl",
-		"category": "spam",
-		"ips": 1275778,
-		"common": 1
-	},
-	{
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3464,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -303,7 +303,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "sorbs_web",
@@ -340,12 +340,6 @@
 		"category": "reputation",
 		"ips": 27252,
 		"common": 10
-	},
-	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 154,
-		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
