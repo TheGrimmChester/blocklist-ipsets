@@ -843,12 +843,12 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 11
+		"common": 2
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2608,
+		"ips": 2612,
 		"common": 287
 	},
 	{
@@ -860,7 +860,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4816,
+		"ips": 4818,
 		"common": 419
 	},
 	{
@@ -915,13 +915,13 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 48
+		"common": 49
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 369,
-		"common": 145
+		"ips": 368,
+		"common": 146
 	},
 	{
 		"name": "sslproxies_30d",
@@ -1010,7 +1010,13 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 77,
+		"ips": 80,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 157,
 		"common": 1
 	},
 	{
