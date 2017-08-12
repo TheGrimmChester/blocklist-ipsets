@@ -6,6 +6,12 @@
 		"common": 11
 	},
 	{
+		"name": "bds_atif",
+		"category": "reputation",
+		"ips": 2624,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 37030,
@@ -22,6 +28,12 @@
 		"category": "attacks",
 		"ips": 140,
 		"common": 3
+	},
+	{
+		"name": "bruteforceblocker",
+		"category": "attacks",
+		"ips": 1154,
+		"common": 1
 	},
 	{
 		"name": "ciarmy",
@@ -66,6 +78,12 @@
 		"common": 2
 	},
 	{
+		"name": "et_compromised",
+		"category": "attacks",
+		"ips": 1133,
+		"common": 1
+	},
+	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652503011,
@@ -80,13 +98,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132358,
-		"common": 36
+		"ips": 132347,
+		"common": 37
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 8861269,
+		"ips": 8861233,
 		"common": 1
 	},
 	{
@@ -141,13 +159,19 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346611555,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 138956038,
 		"common": 9
+	},
+	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 3464,
+		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -213,6 +237,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30545,
-		"common": 43
+		"common": 44
 	}
 ]
