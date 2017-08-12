@@ -1,21 +1,15 @@
 [
 	{
-		"name": "bbcan177_ms1",
-		"category": "malware",
-		"ips": 5268567,
-		"common": 1
-	},
-	{
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 2624,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
 		"ips": 431,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "dshield_30d",
@@ -54,22 +48,40 @@
 		"common": 1
 	},
 	{
-		"name": "iblocklist_level1",
-		"category": "reputation",
-		"ips": 762690791,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346611555,
 		"common": 1
 	},
 	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 138956038,
+		"common": 1
+	},
+	{
+		"name": "jigsaw_attacks",
+		"category": "attacks",
+		"ips": 27109,
+		"common": 2
+	},
+	{
+		"name": "jigsaw_malware",
+		"category": "malware",
+		"ips": 59614,
+		"common": 1
+	},
+	{
+		"name": "nullsecure",
+		"category": "reputation",
+		"ips": 29439,
+		"common": 1
+	},
+	{
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3493,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -82,12 +94,6 @@
 		"category": "reputation",
 		"ips": 34512264,
 		"common": 1
-	},
-	{
-		"name": "taichung",
-		"category": "attacks",
-		"ips": 12338,
-		"common": 2
 	},
 	{
 		"name": "turris_greylist",
